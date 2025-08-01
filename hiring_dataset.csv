@@ -1,0 +1,1051 @@
+Candidate_ID,Role_Applied,Department,Source,Application_Date,Screening_Date,Interview_Date,Offer_Date,Hire_Date,Final_Status
+C00001,Marketing Specialist,Product,Naukri,2024-11-16,2024-11-19,2024-12-03,2024-12-09,,Rejected
+C00002,Software Engineer,Marketing,Referral,2023-11-20,2023-11-26,2023-12-07,2023-12-09,,Rejected
+C00003,Software Engineer,Product,Referral,2024-10-21,2024-10-27,,,,Rejected
+C00004,Marketing Specialist,Product,AngelList,2024-12-18,2024-12-25,2025-01-02,2025-01-05,,Rejected
+C00005,Product Manager,Product,Company Website,2025-01-05,2025-01-14,2025-01-29,2025-02-04,,Rejected
+C00006,Data Scientist,HR,AngelList,2024-12-11,2024-12-21,2024-12-28,2025-01-02,,Dropped
+C00007,Data Scientist,Product,LinkedIn,2024-03-02,2024-03-03,2024-03-13,2024-03-23,,Dropped
+C00008,Data Scientist,Marketing,Referral,2025-05-25,,,,,Hired
+C00009,Marketing Specialist,Marketing,LinkedIn,2024-02-21,2024-03-02,2024-03-12,,,Rejected
+C00010,Software Engineer,Marketing,Referral,2024-12-27,2025-01-02,2025-01-06,2025-01-12,,Rejected
+C00011,Marketing Specialist,Sales,Company Website,2024-05-24,2024-05-26,2024-06-06,2024-06-12,,Dropped
+C00012,Marketing Specialist,Product,Naukri,2024-05-28,2024-06-02,2024-06-14,,,Dropped
+C00013,Sales Executive,Marketing,Company Website,2024-10-14,2024-10-16,2024-10-17,2024-10-24,2024-10-30,Hired
+C00014,Software Engineer,Sales,AngelList,2024-07-15,2024-07-23,2024-07-29,2024-07-31,,Rejected
+C00015,Sales Executive,Product,AngelList,2025-05-23,2025-06-02,2025-06-13,,,Rejected
+C00016,HR Manager,Product,LinkedIn,2025-02-01,2025-02-02,2025-02-08,,,Hired
+C00017,Software Engineer,Tech,LinkedIn,2023-09-26,2023-10-02,,,,Rejected
+C00018,Software Engineer,Product,AngelList,2025-01-29,2025-01-31,2025-02-15,2025-02-21,,Rejected
+C00019,Software Engineer,Tech,AngelList,2025-03-11,2025-03-21,2025-04-02,,,Rejected
+C00020,Data Scientist,HR,AngelList,2023-10-24,2023-10-27,2023-11-03,,,Dropped
+C00021,Data Scientist,HR,Referral,2025-01-11,2025-01-15,2025-01-22,2025-01-31,,Dropped
+C00022,Sales Executive,Sales,Company Website,2025-06-23,2025-06-28,2025-06-30,,,Dropped
+C00023,Sales Executive,Tech,Referral,2025-07-07,2025-07-15,,,,Rejected
+C00024,Software Engineer,HR,Naukri,2023-10-30,2023-11-06,,,,Dropped
+C00025,Sales Executive,HR,Referral,2025-02-18,2025-02-28,2025-03-02,,,Hired
+C00026,Data Scientist,HR,AngelList,2024-11-03,2024-11-08,2024-11-16,2024-11-21,,Rejected
+C00027,Marketing Specialist,Product,Referral,2025-04-11,2025-04-19,2025-04-30,,,Rejected
+C00028,Marketing Specialist,Tech,LinkedIn,2023-07-27,2023-08-03,,,,Rejected
+C00029,Marketing Specialist,HR,AngelList,2023-11-19,2023-11-25,,,,Rejected
+C00030,Sales Executive,Tech,Company Website,2024-09-25,,,,,Rejected
+C00031,HR Manager,Marketing,Referral,2024-03-28,2024-04-02,2024-04-07,2024-04-10,2024-04-14,Hired
+C00032,Data Scientist,Marketing,AngelList,2024-12-08,,,,,Dropped
+C00033,HR Manager,Product,LinkedIn,2025-07-02,2025-07-11,2025-07-24,2025-08-02,2025-08-04,Hired
+C00034,Sales Executive,Marketing,LinkedIn,2024-01-01,2024-01-10,2024-01-19,2024-01-27,,Dropped
+C00035,Product Manager,Sales,Referral,2023-12-12,2023-12-16,2023-12-18,2023-12-19,,Dropped
+C00036,Software Engineer,Tech,AngelList,2025-06-02,2025-06-11,2025-06-22,2025-06-25,2025-06-29,Hired
+C00037,Data Scientist,HR,Company Website,2024-01-12,2024-01-20,,,,Dropped
+C00038,Marketing Specialist,Sales,Naukri,2024-03-29,2024-04-02,2024-04-05,,,Dropped
+C00039,HR Manager,Sales,LinkedIn,2025-02-06,,,,,Hired
+C00040,Product Manager,Marketing,Naukri,2024-12-06,9999-99-99,2024-12-21,,,Dropped
+C00041,Product Manager,Tech,Company Website,2023-11-27,2023-12-03,2023-12-18,2023-12-20,,Rejected
+C00042,Data Scientist,HR,Referral,2024-06-28,2024-07-05,2024-07-19,,,Dropped
+C00043,Data Scientist,Sales,LinkedIn,2024-02-23,2024-02-24,2024-03-05,2024-03-12,2024-03-16,Hired
+C00044,Product Manager,Product,Naukri,2024-07-02,2024-07-05,2024-07-15,2024-07-17,,Rejected
+C00045,Software Engineer,HR,LinkedIn,2024-10-03,2024-10-13,2024-10-26,,,Rejected
+C00046,Software Engineer,Marketing,Naukri,2024-06-13,2024-06-19,2024-06-24,2024-07-02,,Dropped
+C00047,HR Manager,Tech,AngelList,2025-06-08,2025-06-16,,,,Hired
+C00048,Software Engineer,Product,AngelList,2023-12-02,2023-12-05,2023-12-16,2023-12-17,,Rejected
+C00049,Product Manager,HR,Referral,2024-01-06,2024-01-12,2024-01-13,2024-01-18,,Dropped
+C00050,Product Manager,HR,Company Website,2025-04-19,2025-04-20,2025-05-03,2025-05-08,,Rejected
+C00051,Sales Executive,Sales,LinkedIn,2025-06-12,2025-06-14,2025-06-18,,,Hired
+C00052,Product Manager,HR,Company Website,2024-08-23,2024-08-31,2024-09-06,,,Dropped
+C00053,Software Engineer,Tech,Naukri,2023-09-04,2023-09-06,,,,Rejected
+C00054,Marketing Specialist,Tech,Referral,2025-06-19,2025-06-26,2025-07-09,2025-07-15,2025-07-17,Hired
+C00055,HR Manager,HR,AngelList,2023-12-04,2023-12-07,,,,Rejected
+C00056,Sales Executive,Sales,AngelList,2025-02-19,2025-02-26,,,,Dropped
+C00057,Software Engineer,Product,Referral,2024-07-10,2024-07-20,,,,Hired
+C00058,HR Manager,Product,LinkedIn,2024-08-13,2024-08-17,2024-08-21,,,Dropped
+C00059,Software Engineer,Sales,Company Website,2025-05-14,,,,,Rejected
+C00060,Sales Executive,Marketing,Naukri,2025-06-09,2025-06-13,2025-06-27,2025-07-04,,Rejected
+C00061,Product Manager,Tech,Company Website,2025-02-12,2025-02-14,2025-02-18,2025-02-28,2025-03-15,Hired
+C00062,Marketing Specialist,Marketing,AngelList,2024-06-05,2024-06-13,2024-06-19,2024-06-24,,Rejected
+C00063,Sales Executive,Sales,Referral,2023-07-28,2023-07-30,2023-08-06,,,Dropped
+C00064,Product Manager,Marketing,AngelList,2025-06-30,2025-07-04,2025-07-15,,,Rejected
+C00065,Sales Executive,Sales,AngelList,2023-12-08,2023-12-15,2023-12-29,2023-12-30,,Dropped
+C00066,Data Scientist,Product,Naukri,2025-04-28,2025-05-01,2025-05-11,2025-05-15,,Rejected
+C00067,Marketing Specialist,Product,LinkedIn,2023-12-17,2023-12-22,9999-99-99,2024-01-10,,Dropped
+C00068,Software Engineer,Marketing,LinkedIn,2025-01-13,2025-01-19,2025-01-23,2025-02-01,,Dropped
+C00069,Software Engineer,Marketing,Naukri,2025-02-06,2025-02-13,2025-02-14,2025-02-20,,Dropped
+C00070,Marketing Specialist,Tech,Referral,2024-07-03,2024-07-13,2024-07-18,2024-07-26,,Rejected
+C00071,Data Scientist,Product,Company Website,2024-10-03,,,,,Dropped
+C00072,Product Manager,Tech,Referral,2024-04-13,2024-04-19,2024-04-24,2024-04-29,2024-05-06,Hired
+C00073,Software Engineer,Marketing,Company Website,2024-04-07,2024-04-11,2024-04-24,2024-05-04,,Rejected
+C00074,Data Scientist,Sales,LinkedIn,2025-01-12,2025-01-18,2025-01-30,,,Dropped
+C00075,Software Engineer,Product,AngelList,2024-12-22,2024-12-27,2025-01-03,2025-01-04,,Dropped
+C00076,HR Manager,Sales,AngelList,2023-11-21,2023-12-01,2023-12-07,2023-12-11,,Dropped
+C00077,Product Manager,Tech,Referral,2024-02-18,2024-02-26,2024-03-08,2024-03-13,,Dropped
+C00078,HR Manager,Tech,Naukri,2023-08-25,2023-09-03,,,,Hired
+C00079,Marketing Specialist,HR,Company Website,2025-02-25,,,,,Hired
+C00080,Product Manager,Product,AngelList,2025-06-02,9999-99-99,2025-06-16,2025-06-19,2025-06-30,Hired
+C00081,Data Scientist,Product,Referral,2025-06-15,2025-06-19,2025-07-01,2025-07-08,,Dropped
+C00082,Product Manager,Tech,Naukri,2025-07-10,2025-07-16,2025-07-26,,,Dropped
+C00083,Product Manager,Sales,LinkedIn,2025-02-07,2025-02-15,,,,Rejected
+C00084,Data Scientist,Product,Naukri,2025-06-19,2025-06-29,2025-07-01,2025-07-05,2025-07-22,Hired
+C00085,Marketing Specialist,Tech,LinkedIn,2025-06-25,9999-99-99,2025-07-09,,,Dropped
+C00086,Product Manager,HR,Referral,2024-06-05,2024-06-08,2024-06-14,2024-06-24,,Dropped
+C00087,Marketing Specialist,Marketing,Naukri,2025-05-12,2025-05-20,,,,Hired
+C00088,Marketing Specialist,Product,Referral,2024-07-30,2024-08-02,2024-08-10,2024-08-13,,Dropped
+C00089,Marketing Specialist,Marketing,LinkedIn,2025-01-02,2025-01-03,,,,Dropped
+C00090,Software Engineer,Sales,AngelList,2023-09-10,2023-09-13,2023-09-16,2023-09-18,,Dropped
+C00091,Sales Executive,HR,AngelList,2025-05-03,2025-05-10,2025-05-17,2025-05-25,,Dropped
+C00092,Marketing Specialist,Product,LinkedIn,2025-07-21,2025-07-22,2025-08-03,2025-08-04,,Rejected
+C00093,Data Scientist,Marketing,Company Website,2023-11-24,2023-12-03,,,,Rejected
+C00094,Sales Executive,Marketing,Company Website,2023-11-06,2023-11-10,2023-11-25,2023-11-28,,Rejected
+C00095,Marketing Specialist,Tech,AngelList,2025-02-23,2025-03-04,2025-03-07,,,Hired
+C00096,Data Scientist,Marketing,AngelList,2023-09-20,,,,,Hired
+C00097,Data Scientist,Sales,Naukri,2025-05-17,2025-05-25,2025-06-04,2025-06-11,2025-06-16,Hired
+C00098,HR Manager,Marketing,Naukri,2024-09-10,2024-09-18,2024-09-22,,,Rejected
+C00099,HR Manager,Sales,AngelList,2025-03-02,2025-03-09,,,,Hired
+C00100,Product Manager,Sales,Company Website,2025-07-07,9999-99-99,2025-07-11,2025-07-14,,Dropped
+C00101,Marketing Specialist,Tech,Naukri,2025-04-24,2025-04-25,2025-05-06,,,Dropped
+C00102,Marketing Specialist,HR,LinkedIn,2024-09-16,2024-09-17,2024-09-18,2024-09-19,,Dropped
+C00103,Sales Executive,Sales,Naukri,2023-08-14,,,,,Dropped
+C00104,Data Scientist,Marketing,Naukri,2025-03-02,2025-03-10,2025-03-19,,,Dropped
+C00105,Marketing Specialist,Marketing,Naukri,2023-12-30,2024-01-03,2024-01-14,,,Dropped
+C00106,Product Manager,Sales,Referral,2025-06-11,2025-06-13,2025-06-18,2025-06-21,,Dropped
+C00107,Software Engineer,Marketing,LinkedIn,2024-07-14,2024-07-16,2024-07-26,,,Hired
+C00108,Data Scientist,Product,AngelList,2024-12-21,2024-12-23,2025-01-02,,,Rejected
+C00109,Software Engineer,Tech,Company Website,2025-04-05,2025-04-14,2025-04-20,2025-04-25,,Rejected
+C00110,Product Manager,Marketing,Company Website,2024-08-20,2024-08-29,2024-09-02,2024-09-10,,Rejected
+C00111,HR Manager,Tech,AngelList,2024-11-04,2024-11-05,,,,Rejected
+C00112,Product Manager,Sales,Referral,2024-04-14,,,,,Dropped
+C00113,Software Engineer,Sales,Company Website,2025-05-07,2025-05-17,2025-05-20,2025-05-29,,Dropped
+C00114,Data Scientist,Sales,Naukri,2024-11-29,,,,,Dropped
+C00115,Sales Executive,Tech,Company Website,2025-01-24,2025-01-29,2025-02-06,2025-02-11,,Dropped
+C00116,Marketing Specialist,Marketing,LinkedIn,2023-08-23,2023-08-24,,,,Hired
+C00117,Product Manager,Product,LinkedIn,2024-12-23,2024-12-24,2024-12-30,2025-01-05,,Rejected
+C00118,Data Scientist,Tech,AngelList,2024-10-24,2024-10-26,,,,Hired
+C00119,Marketing Specialist,Product,Referral,2024-10-22,2024-10-23,,,,Rejected
+C00120,HR Manager,Marketing,Referral,2025-03-21,2025-03-24,2025-04-08,2025-04-18,2025-04-27,Hired
+C00121,HR Manager,Marketing,Company Website,2024-10-19,2024-10-21,2024-10-27,,,Rejected
+C00122,Marketing Specialist,Tech,Referral,2024-09-23,2024-10-01,2024-10-08,2024-10-16,,Rejected
+C00123,HR Manager,HR,Referral,2023-08-29,2023-09-01,,,,Hired
+C00124,Data Scientist,Product,Company Website,2025-07-04,2025-07-05,2025-07-19,,,Hired
+C00125,Product Manager,Sales,LinkedIn,2023-09-19,2023-09-29,2023-10-09,2023-10-12,,Dropped
+C00126,Data Scientist,Product,Naukri,9999-99-99,2025-06-12,2025-06-26,2025-06-29,2025-07-15,Hired
+C00127,Data Scientist,Marketing,AngelList,2023-10-01,2023-10-03,2023-10-11,,,Rejected
+C00128,Marketing Specialist,Marketing,LinkedIn,2023-11-12,2023-11-18,,,,Rejected
+C00129,Sales Executive,Tech,Referral,2024-10-06,2024-10-15,2024-10-25,2024-10-29,,Rejected
+C00130,Sales Executive,HR,Referral,2024-07-27,2024-08-02,2024-08-14,2024-08-16,,Rejected
+C00131,Product Manager,Sales,Company Website,2024-12-27,2024-12-31,2025-01-11,2025-01-18,2025-01-23,Hired
+C00132,Marketing Specialist,Product,AngelList,2024-08-08,2024-08-17,2024-08-27,,,Dropped
+C00133,Sales Executive,HR,Naukri,2025-06-14,2025-06-17,2025-06-25,2025-06-28,,Rejected
+C00134,HR Manager,Sales,Company Website,2023-10-24,,,,,Rejected
+C00135,Sales Executive,Marketing,Company Website,2023-08-06,2023-08-10,2023-08-15,,,Rejected
+C00136,HR Manager,Marketing,Naukri,2025-04-02,2025-04-09,2025-04-13,,,Hired
+C00137,Product Manager,Tech,Naukri,2025-07-08,2025-07-18,2025-08-01,2025-08-07,,Rejected
+C00138,Data Scientist,Tech,Referral,2023-11-03,2023-11-11,2023-11-12,,,Dropped
+C00139,Data Scientist,Product,Company Website,2023-10-29,2023-11-07,2023-11-21,,,Dropped
+C00140,Sales Executive,HR,LinkedIn,2024-02-04,2024-02-14,2024-02-29,2024-03-04,,Rejected
+C00141,HR Manager,HR,LinkedIn,2024-07-07,2024-07-15,2024-07-21,2024-07-25,,Rejected
+C00142,Software Engineer,Sales,Company Website,2024-04-23,2024-04-29,2024-05-09,2024-05-15,2024-05-30,Hired
+C00143,Software Engineer,Product,Naukri,2025-06-26,2025-06-30,,,,Rejected
+C00144,Software Engineer,Tech,AngelList,2025-03-14,2025-03-19,2025-03-25,2025-03-26,2025-04-01,Hired
+C00145,Data Scientist,Product,Naukri,2024-10-06,2024-10-13,,,,Dropped
+C00146,Marketing Specialist,Marketing,Naukri,2025-04-12,2025-04-16,,,,Hired
+C00147,Data Scientist,Tech,AngelList,2025-01-08,2025-01-12,2025-01-25,,,Hired
+C00148,Marketing Specialist,HR,Naukri,2023-11-23,2023-11-30,,,,Rejected
+C00149,HR Manager,Tech,AngelList,2024-11-30,2024-12-10,,,,Dropped
+C00150,Sales Executive,Marketing,Company Website,2025-01-29,2025-02-06,2025-02-15,,,Hired
+C00151,Software Engineer,Tech,AngelList,2023-09-05,2023-09-14,2023-09-23,2023-10-03,,Dropped
+C00152,HR Manager,HR,LinkedIn,2025-01-20,2025-01-29,2025-02-13,,,Hired
+C00153,HR Manager,Marketing,AngelList,2025-07-18,2025-07-21,,,,Dropped
+C00154,Sales Executive,Sales,Naukri,2024-03-20,2024-03-30,2024-04-08,2024-04-15,2024-05-05,Hired
+C00155,HR Manager,Product,Company Website,2023-08-25,2023-08-29,2023-09-04,2023-09-12,,Dropped
+C00156,Sales Executive,Sales,AngelList,2024-03-13,2024-03-16,2024-03-28,2024-04-06,2024-04-16,Hired
+C00157,Product Manager,Marketing,Naukri,2024-08-22,2024-08-31,2024-09-12,2024-09-21,,Dropped
+C00158,Sales Executive,Marketing,AngelList,2024-09-17,2024-09-21,2024-10-03,,,Hired
+C00159,Software Engineer,Marketing,Company Website,2023-08-03,2023-08-06,2023-08-17,2023-08-20,,Rejected
+C00160,Marketing Specialist,HR,Company Website,2024-03-13,2024-03-19,2024-04-01,2024-04-09,,Dropped
+C00161,Marketing Specialist,Marketing,LinkedIn,2024-01-26,2024-02-02,2024-02-17,2024-02-22,,Rejected
+C00162,Software Engineer,Product,Company Website,2025-01-10,2025-01-17,2025-01-26,,,Rejected
+C00163,Marketing Specialist,HR,Naukri,2024-12-02,2024-12-03,2024-12-07,,,Hired
+C00164,Sales Executive,Marketing,Company Website,2024-04-02,2024-04-07,2024-04-10,2024-04-15,,Rejected
+C00165,Product Manager,HR,Company Website,2025-03-24,2025-04-02,,,,Dropped
+C00166,Marketing Specialist,Product,Naukri,2024-08-06,2024-08-08,2024-08-19,2024-08-23,2024-09-10,Hired
+C00167,Product Manager,Product,Naukri,2024-12-12,2024-12-21,2025-01-03,2025-01-04,2025-01-17,Hired
+C00168,Software Engineer,HR,Company Website,2025-05-07,2025-05-13,2025-05-14,,,Dropped
+C00169,Product Manager,Tech,Company Website,2025-01-02,2025-01-12,2025-01-26,2025-01-30,,Dropped
+C00170,HR Manager,Sales,AngelList,2025-05-11,2025-05-17,2025-05-26,2025-05-30,,Rejected
+C00171,Data Scientist,Marketing,Company Website,2024-07-14,2024-07-18,2024-07-21,2024-07-23,,Rejected
+C00172,HR Manager,Sales,LinkedIn,2025-03-07,2025-03-10,2025-03-12,2025-03-19,2025-03-28,Hired
+C00173,Software Engineer,Product,LinkedIn,2024-10-04,2024-10-07,,,,Dropped
+C00174,Marketing Specialist,Sales,LinkedIn,2024-05-18,2024-05-19,2024-05-31,2024-06-01,,Dropped
+C00175,Marketing Specialist,Tech,LinkedIn,2025-01-07,2025-01-13,2025-01-26,2025-02-05,2025-02-15,Hired
+C00176,Product Manager,Sales,Company Website,2023-10-21,2023-10-31,2023-11-02,2023-11-08,,Rejected
+C00177,Sales Executive,Sales,AngelList,2024-01-10,2024-01-13,2024-01-26,2024-02-02,,Dropped
+C00178,Data Scientist,Product,Naukri,2024-09-22,2024-09-29,,,,Rejected
+C00179,Sales Executive,Product,Company Website,2024-05-03,2024-05-07,2024-05-13,2024-05-17,,Rejected
+C00180,Software Engineer,Marketing,Referral,2025-06-10,2025-06-20,2025-06-29,2025-06-30,2025-07-04,Hired
+C00181,Marketing Specialist,HR,Company Website,2024-03-10,2024-03-18,2024-03-29,2024-04-08,,Dropped
+C00182,Product Manager,Marketing,LinkedIn,2023-10-18,2023-10-19,2023-10-25,2023-10-27,2023-11-09,Hired
+C00183,Marketing Specialist,Product,Referral,2024-02-19,2024-02-24,,,,Hired
+C00184,Sales Executive,Marketing,Company Website,2025-07-21,2025-07-27,2025-08-05,2025-08-06,,Rejected
+C00185,Sales Executive,Sales,AngelList,2025-01-29,2025-02-02,2025-02-04,2025-02-07,,Dropped
+C00186,Data Scientist,Sales,AngelList,2024-07-06,2024-07-15,2024-07-26,,,Hired
+C00187,Data Scientist,Product,Referral,2023-08-05,2023-08-09,2023-08-16,2023-08-20,,Dropped
+C00188,Product Manager,Product,Naukri,2024-08-07,2024-08-14,2024-08-16,2024-08-19,2024-08-20,Hired
+C00189,Data Scientist,Marketing,Referral,2023-12-17,2023-12-23,,,,Dropped
+C00190,Sales Executive,Marketing,AngelList,2025-03-08,,,,,Hired
+C00191,Sales Executive,Sales,Referral,2024-02-17,2024-02-22,2024-03-03,2024-03-08,,Rejected
+C00192,Software Engineer,HR,LinkedIn,2024-11-02,2024-11-10,2024-11-17,2024-11-24,,Rejected
+C00193,Sales Executive,HR,LinkedIn,2025-04-06,2025-04-15,,,,Hired
+C00194,Product Manager,Product,Naukri,2024-02-11,2024-02-13,2024-02-23,,,Rejected
+C00195,HR Manager,Marketing,Referral,2025-07-14,2025-07-20,2025-07-22,,,Hired
+C00196,Software Engineer,HR,Referral,2025-07-04,2025-07-14,,,,Rejected
+C00197,Software Engineer,Marketing,Referral,2024-12-11,2024-12-19,2025-01-02,2025-01-10,,Dropped
+C00198,Product Manager,Tech,Referral,2024-02-19,2024-02-23,,,,Rejected
+C00199,Product Manager,Sales,Naukri,2025-01-22,2025-01-31,2025-02-11,,,Dropped
+C00200,Data Scientist,Marketing,AngelList,2023-11-19,2023-11-25,2023-11-26,2023-12-05,,Dropped
+C00201,Software Engineer,Marketing,Company Website,2024-04-26,2024-04-27,,,,Rejected
+C00202,Data Scientist,Marketing,Naukri,2024-07-02,2024-07-11,2024-07-13,2024-07-19,,Dropped
+C00203,Sales Executive,HR,AngelList,2023-08-12,2023-08-21,,,,Rejected
+C00204,Software Engineer,Marketing,AngelList,2024-08-19,2024-08-29,2024-09-02,,,Dropped
+C00205,Software Engineer,Tech,AngelList,2023-09-26,2023-10-06,2023-10-20,2023-10-29,,Rejected
+C00206,Marketing Specialist,HR,Referral,2024-12-28,2025-01-06,,,,Dropped
+C00207,HR Manager,Product,Naukri,2023-08-01,2023-08-06,,,,Hired
+C00208,Software Engineer,Product,AngelList,2024-09-23,2024-10-01,2024-10-07,,,Rejected
+C00209,Sales Executive,Sales,Company Website,2024-02-17,2024-02-19,2024-02-21,2024-02-27,,Rejected
+C00210,Data Scientist,Tech,Company Website,2024-05-17,2024-05-23,2024-05-28,2024-05-31,,Rejected
+C00211,Data Scientist,Marketing,LinkedIn,2024-08-02,2024-08-08,2024-08-15,,,Dropped
+C00212,Marketing Specialist,Tech,AngelList,2023-10-11,2023-10-15,2023-10-26,2023-11-01,2023-11-06,Hired
+C00213,HR Manager,Product,Naukri,9999-99-99,2025-06-14,2025-06-22,2025-06-27,,Dropped
+C00214,Sales Executive,Marketing,Referral,2024-11-30,2024-12-02,,,,Dropped
+C00215,Data Scientist,Tech,LinkedIn,2025-05-31,2025-06-05,2025-06-08,2025-06-12,,Rejected
+C00216,Product Manager,HR,AngelList,2024-01-17,2024-01-19,2024-02-03,,,Dropped
+C00217,Sales Executive,Marketing,Referral,2024-03-22,2024-03-23,2024-04-02,2024-04-12,,Dropped
+C00218,Sales Executive,HR,Naukri,2024-04-08,2024-04-09,2024-04-18,2024-04-27,2024-05-13,Hired
+C00219,HR Manager,Tech,Naukri,2024-07-30,2024-08-02,2024-08-06,2024-08-16,,Dropped
+C00220,Data Scientist,Marketing,LinkedIn,2023-09-03,2023-09-08,,,,Hired
+C00221,Sales Executive,Sales,LinkedIn,2023-08-17,2023-08-19,2023-08-28,,,Rejected
+C00222,Marketing Specialist,Sales,AngelList,2024-10-18,2024-10-28,2024-11-10,2024-11-18,2024-11-24,Hired
+C00223,Marketing Specialist,Product,Referral,2024-12-13,2024-12-23,2024-12-26,2025-01-03,2025-01-15,Hired
+C00224,Data Scientist,Marketing,Company Website,2023-12-09,,,,,Rejected
+C00225,Marketing Specialist,Tech,Referral,2024-11-06,2024-11-10,,,,Hired
+C00226,Product Manager,Sales,Naukri,2025-05-05,2025-05-06,2025-05-15,2025-05-21,2025-06-03,Hired
+C00227,HR Manager,Product,Naukri,2023-11-20,2023-11-28,2023-11-29,2023-12-05,,Rejected
+C00228,Marketing Specialist,Marketing,AngelList,2024-03-14,2024-03-23,2024-03-28,2024-04-02,,Dropped
+C00229,Marketing Specialist,Sales,Company Website,2023-12-31,9999-99-99,,,,Hired
+C00230,Product Manager,Marketing,AngelList,2024-12-21,2024-12-27,2025-01-11,2025-01-20,,Dropped
+C00231,HR Manager,Product,Naukri,2024-08-22,2024-08-26,2024-09-01,2024-09-07,,Rejected
+C00232,Sales Executive,Tech,Naukri,2024-07-02,2024-07-10,2024-07-11,2024-07-14,,Rejected
+C00233,HR Manager,Product,Referral,2023-12-14,2023-12-18,,,,Dropped
+C00234,Software Engineer,Tech,Company Website,2024-11-26,9999-99-99,,,,Hired
+C00235,Data Scientist,HR,Referral,2024-09-17,2024-09-27,2024-09-29,2024-10-06,,Dropped
+C00236,Data Scientist,Sales,Referral,2024-06-29,2024-07-01,9999-99-99,2024-07-19,,Rejected
+C00237,Software Engineer,HR,AngelList,2024-02-22,2024-02-29,,,,Rejected
+C00238,Product Manager,Tech,Referral,2024-05-14,,,,,Hired
+C00239,Software Engineer,Marketing,LinkedIn,2025-07-17,2025-07-20,,,,Rejected
+C00240,Sales Executive,Tech,LinkedIn,2023-07-31,2023-08-10,,,,Dropped
+C00241,Sales Executive,Tech,Referral,2024-12-15,2024-12-18,2024-12-25,2025-01-04,,Dropped
+C00242,Data Scientist,Marketing,Company Website,2024-05-07,2024-05-12,2024-05-16,2024-05-24,,Dropped
+C00243,Sales Executive,HR,Referral,2025-02-17,2025-02-20,2025-02-27,2025-03-09,,Dropped
+C00244,Data Scientist,Sales,Naukri,2024-09-06,2024-09-09,2024-09-18,,,Hired
+C00245,Software Engineer,Tech,Naukri,2023-12-22,2023-12-28,2024-01-07,2024-01-11,,Dropped
+C00246,Software Engineer,Tech,Company Website,2023-11-03,2023-11-06,,,,Hired
+C00247,Marketing Specialist,Sales,AngelList,2024-11-08,2024-11-17,2024-12-01,,,Rejected
+C00248,Marketing Specialist,Tech,LinkedIn,2023-12-06,,,,,Rejected
+C00249,Software Engineer,Sales,LinkedIn,2025-05-30,2025-06-09,2025-06-24,2025-07-03,2025-07-07,Hired
+C00250,Data Scientist,Sales,AngelList,2025-07-21,,,,,Hired
+C00251,Software Engineer,Sales,Referral,2024-01-04,2024-01-14,2024-01-15,2024-01-22,,Rejected
+C00252,Software Engineer,Marketing,Company Website,2025-07-07,2025-07-13,2025-07-25,2025-07-29,,Rejected
+C00253,Product Manager,HR,Referral,2023-12-07,2023-12-15,2023-12-22,2024-01-01,,Dropped
+C00254,Software Engineer,HR,AngelList,2023-10-21,,,,,Hired
+C00255,Sales Executive,Product,Company Website,2024-07-04,2024-07-12,2024-07-27,2024-08-01,,Rejected
+C00256,Data Scientist,Marketing,LinkedIn,2024-06-13,2024-06-22,2024-06-26,,,Hired
+C00257,Product Manager,Product,LinkedIn,2024-11-18,2024-11-19,9999-99-99,2024-11-28,,Rejected
+C00258,Marketing Specialist,HR,Referral,2025-03-29,2025-04-04,2025-04-06,,,Hired
+C00259,HR Manager,HR,Naukri,2025-03-24,2025-03-29,2025-04-07,2025-04-13,2025-05-03,Hired
+C00260,Data Scientist,HR,AngelList,2024-07-03,2024-07-10,2024-07-17,2024-07-26,,Rejected
+C00261,Sales Executive,Tech,AngelList,2025-05-19,2025-05-25,2025-06-02,,,Dropped
+C00262,Data Scientist,Product,Referral,2024-04-10,2024-04-16,2024-04-23,2024-04-25,,Dropped
+C00263,Marketing Specialist,Marketing,AngelList,2023-08-18,2023-08-26,2023-08-29,,,Dropped
+C00264,Sales Executive,Product,LinkedIn,2024-10-12,2024-10-18,2024-10-28,2024-10-29,,Rejected
+C00265,Sales Executive,HR,Referral,2024-07-16,2024-07-17,2024-07-31,,,Rejected
+C00266,HR Manager,Marketing,LinkedIn,2024-12-30,2025-01-06,,,,Dropped
+C00267,Data Scientist,Product,Company Website,2023-12-01,9999-99-99,,,,Rejected
+C00268,HR Manager,HR,Company Website,2024-12-19,,,,,Rejected
+C00269,HR Manager,HR,Naukri,2023-12-10,2023-12-17,2023-12-26,,,Dropped
+C00270,Data Scientist,Marketing,AngelList,2025-05-31,2025-06-01,2025-06-15,,,Rejected
+C00271,Software Engineer,Sales,Company Website,2024-04-22,2024-04-23,2024-05-04,2024-05-13,,Rejected
+C00272,Software Engineer,Marketing,AngelList,2025-05-14,2025-05-15,2025-05-24,2025-05-28,2025-06-17,Hired
+C00273,Marketing Specialist,Sales,LinkedIn,2023-08-18,2023-08-19,2023-08-30,,,Hired
+C00274,HR Manager,Tech,Referral,2024-05-15,2024-05-20,2024-05-26,2024-06-02,,Dropped
+C00275,Product Manager,Marketing,Company Website,2025-02-01,2025-02-10,,,,Hired
+C00276,HR Manager,Sales,Referral,2025-07-03,2025-07-05,2025-07-17,2025-07-27,2025-08-08,Hired
+C00277,HR Manager,Product,Company Website,2024-11-11,2024-11-16,2024-11-20,2024-11-27,,Rejected
+C00278,HR Manager,HR,AngelList,2024-07-22,2024-07-27,,,,Hired
+C00279,Marketing Specialist,Tech,Company Website,2025-05-09,2025-05-18,,,,Rejected
+C00280,Software Engineer,Marketing,Company Website,2024-08-29,2024-08-31,2024-09-05,2024-09-15,2024-09-24,Hired
+C00281,Marketing Specialist,Sales,LinkedIn,2025-01-16,2025-01-23,2025-02-05,,,Dropped
+C00282,Marketing Specialist,Product,Naukri,2025-02-04,2025-02-12,2025-02-27,2025-02-28,,Rejected
+C00283,Marketing Specialist,Sales,LinkedIn,2024-01-29,2024-02-03,,,,Hired
+C00284,Software Engineer,Marketing,Referral,2024-12-14,2024-12-18,2024-12-22,2024-12-29,,Rejected
+C00285,Software Engineer,Sales,AngelList,2024-01-14,2024-01-23,2024-02-04,2024-02-08,,Dropped
+C00286,HR Manager,Marketing,AngelList,2023-10-23,2023-10-30,2023-11-13,2023-11-22,,Dropped
+C00287,Marketing Specialist,Sales,Company Website,2023-08-29,2023-09-06,2023-09-10,2023-09-15,,Rejected
+C00288,Product Manager,HR,AngelList,2023-09-03,2023-09-07,2023-09-11,,,Dropped
+C00289,Software Engineer,Marketing,Naukri,2024-10-01,2024-10-06,2024-10-10,2024-10-20,,Dropped
+C00290,Data Scientist,Marketing,Naukri,2025-04-04,9999-99-99,,,,Hired
+C00291,Data Scientist,Tech,Company Website,2023-09-12,,,,,Dropped
+C00292,Data Scientist,HR,Company Website,2023-09-02,9999-99-99,2023-09-23,2023-09-24,2023-10-10,Hired
+C00293,Sales Executive,Marketing,Referral,2024-08-30,2024-09-05,2024-09-20,2024-09-25,,Rejected
+C00294,HR Manager,Product,Company Website,2024-07-04,2024-07-13,2024-07-17,2024-07-20,,Dropped
+C00295,Data Scientist,Sales,LinkedIn,2023-08-10,,,,,Rejected
+C00296,HR Manager,Product,LinkedIn,2024-12-22,2024-12-30,2024-12-31,2025-01-07,,Dropped
+C00297,Data Scientist,Sales,LinkedIn,2024-07-21,2024-07-24,2024-07-26,2024-08-03,2024-08-14,Hired
+C00298,Product Manager,Sales,Naukri,2023-12-16,2023-12-17,2023-12-24,2023-12-30,,Dropped
+C00299,HR Manager,Tech,AngelList,2024-06-15,2024-06-20,,,,Rejected
+C00300,Data Scientist,Marketing,Referral,2024-03-11,2024-03-16,2024-03-26,2024-03-29,,Dropped
+C00301,Software Engineer,Sales,Company Website,2024-12-01,2024-12-05,2024-12-18,2024-12-25,2025-01-03,Hired
+C00302,HR Manager,Tech,Referral,2025-02-22,2025-03-04,,,,Rejected
+C00303,Sales Executive,Product,Naukri,2024-11-26,2024-11-30,2024-12-12,,,Hired
+C00304,Software Engineer,Tech,Company Website,2025-03-07,2025-03-14,2025-03-18,,,Dropped
+C00305,Software Engineer,Product,Company Website,2024-07-16,2024-07-19,2024-07-20,,,Dropped
+C00306,Marketing Specialist,Marketing,Naukri,2023-08-11,2023-08-20,2023-08-26,2023-08-31,2023-09-09,Hired
+C00307,Sales Executive,Sales,AngelList,2025-04-18,2025-04-28,,,,Rejected
+C00308,Software Engineer,HR,Company Website,2023-10-08,,,,,Hired
+C00309,Software Engineer,Product,AngelList,2025-05-27,2025-05-31,2025-06-08,2025-06-10,,Rejected
+C00310,Data Scientist,Sales,Naukri,2025-03-06,2025-03-12,2025-03-18,2025-03-23,,Rejected
+C00311,Data Scientist,HR,Referral,2024-08-31,2024-09-07,,,,Rejected
+C00312,HR Manager,HR,Company Website,2024-11-30,2024-12-10,,,,Hired
+C00313,HR Manager,Product,AngelList,2024-11-15,2024-11-24,,,,Rejected
+C00314,HR Manager,Sales,Company Website,2025-01-02,2025-01-08,2025-01-17,2025-01-25,2025-01-28,Hired
+C00315,Data Scientist,HR,AngelList,2025-03-24,2025-03-29,2025-04-01,2025-04-07,2025-04-21,Hired
+C00316,HR Manager,Tech,Company Website,2025-04-29,2025-05-09,2025-05-24,,,Hired
+C00317,Software Engineer,Tech,Company Website,2024-05-26,2024-05-30,2024-06-10,,,Dropped
+C00318,Data Scientist,Sales,Company Website,2024-12-01,2024-12-08,2024-12-16,9999-99-99,,Dropped
+C00319,HR Manager,Marketing,Referral,2024-02-27,2024-03-07,2024-03-14,,,Dropped
+C00320,Software Engineer,Tech,Company Website,2024-02-28,2024-03-02,9999-99-99,,,Rejected
+C00321,HR Manager,Product,AngelList,2024-06-26,2024-06-28,2024-07-05,,,Dropped
+C00322,Product Manager,Sales,Referral,2023-11-21,,,,,Dropped
+C00323,HR Manager,HR,LinkedIn,2024-04-15,2024-04-24,,,,Dropped
+C00324,Product Manager,Tech,AngelList,2025-04-03,2025-04-12,2025-04-14,,,Rejected
+C00325,HR Manager,Sales,AngelList,2024-08-26,2024-08-28,2024-09-12,2024-09-16,2024-09-24,Hired
+C00326,Marketing Specialist,Sales,LinkedIn,2024-03-09,2024-03-17,2024-03-20,2024-03-23,,Dropped
+C00327,Marketing Specialist,Marketing,Referral,2025-02-11,,,,,Hired
+C00328,Sales Executive,HR,Company Website,2023-12-14,2023-12-20,2023-12-28,2024-01-06,9999-99-99,Hired
+C00329,Marketing Specialist,HR,AngelList,2024-02-02,2024-02-05,2024-02-17,2024-02-27,2024-03-18,Hired
+C00330,Marketing Specialist,HR,LinkedIn,2023-08-08,2023-08-18,2023-08-29,2023-09-03,2023-09-15,Hired
+C00331,HR Manager,Product,Company Website,2024-07-02,2024-07-06,2024-07-14,2024-07-21,,Dropped
+C00332,Data Scientist,Sales,Referral,2025-06-20,2025-06-25,,,,Rejected
+C00333,Data Scientist,Product,AngelList,2024-03-30,2024-04-02,2024-04-10,2024-04-18,,Dropped
+C00334,Product Manager,Product,Company Website,2024-10-29,2024-11-06,2024-11-19,2024-11-24,,Rejected
+C00335,Data Scientist,Sales,Company Website,2024-08-16,2024-08-17,2024-08-21,2024-08-30,,Dropped
+C00336,Software Engineer,HR,Naukri,2024-04-03,2024-04-07,,,,Dropped
+C00337,Sales Executive,Sales,LinkedIn,2025-03-21,2025-03-28,2025-04-01,,,Hired
+C00338,Marketing Specialist,Marketing,Company Website,2023-11-15,2023-11-19,2023-12-02,2023-12-07,,Rejected
+C00339,Sales Executive,Sales,Referral,2024-03-09,2024-03-18,2024-03-25,,,Dropped
+C00340,Software Engineer,Sales,Naukri,2025-02-19,,,,,Rejected
+C00341,Marketing Specialist,Tech,Company Website,2025-02-11,2025-02-13,2025-02-23,2025-03-05,,Rejected
+C00342,Product Manager,Marketing,Company Website,2024-07-08,2024-07-14,,,,Dropped
+C00343,Software Engineer,Tech,Referral,2024-04-10,,,,,Rejected
+C00344,Software Engineer,HR,Naukri,2024-01-06,2024-01-09,2024-01-14,,,Dropped
+C00345,Sales Executive,HR,Naukri,2023-12-22,2023-12-23,2023-12-26,,,Dropped
+C00346,HR Manager,Marketing,LinkedIn,2023-12-14,2023-12-21,2024-01-03,2024-01-09,2024-01-24,Hired
+C00347,Sales Executive,Product,Company Website,2025-05-05,2025-05-06,2025-05-20,2025-05-23,2025-05-25,Hired
+C00348,Sales Executive,Sales,LinkedIn,2024-01-19,2024-01-26,,,,Rejected
+C00349,Data Scientist,Tech,Naukri,2023-12-13,2023-12-17,2023-12-22,2023-12-23,2023-12-27,Hired
+C00350,Software Engineer,Marketing,LinkedIn,2023-12-01,2023-12-05,2023-12-13,,,Rejected
+C00351,Sales Executive,Tech,Referral,2024-03-02,2024-03-06,2024-03-19,,,Dropped
+C00352,Software Engineer,Sales,AngelList,2024-09-19,2024-09-23,2024-10-04,2024-10-10,2024-10-16,Hired
+C00353,Data Scientist,Product,Referral,2025-04-17,2025-04-18,2025-04-27,2025-05-02,,Dropped
+C00354,Software Engineer,Tech,Naukri,2023-11-01,2023-11-06,,,,Hired
+C00355,Sales Executive,Marketing,Referral,2024-01-01,2024-01-05,2024-01-09,2024-01-15,2024-01-16,Hired
+C00356,Software Engineer,Sales,Naukri,2023-09-11,2023-09-16,2023-09-23,2023-09-24,2023-09-26,Hired
+C00357,Marketing Specialist,Sales,Referral,2025-02-07,2025-02-15,2025-02-18,2025-02-20,,Dropped
+C00358,Data Scientist,Product,Company Website,2025-01-14,2025-01-22,,,,Rejected
+C00359,HR Manager,Marketing,Company Website,2025-01-30,2025-01-31,,,,Hired
+C00360,Software Engineer,Sales,Referral,2025-05-09,2025-05-18,2025-05-21,2025-05-27,,Dropped
+C00361,Sales Executive,Tech,LinkedIn,2025-01-27,2025-02-02,2025-02-10,2025-02-11,,Rejected
+C00362,Data Scientist,HR,Naukri,2023-12-06,2023-12-12,2023-12-17,2023-12-25,,Rejected
+C00363,Sales Executive,Marketing,Company Website,2024-06-02,2024-06-11,2024-06-23,2024-07-03,2024-07-09,Hired
+C00364,Sales Executive,Tech,Naukri,2025-02-10,2025-02-16,2025-02-21,2025-03-03,,Dropped
+C00365,Software Engineer,Product,Company Website,2024-01-04,2024-01-13,,,,Dropped
+C00366,Sales Executive,Product,AngelList,2025-04-28,2025-05-06,2025-05-11,2025-05-19,,Rejected
+C00367,Software Engineer,Sales,Referral,2023-10-22,,,,,Dropped
+C00368,HR Manager,Product,Company Website,2023-12-22,2023-12-29,2024-01-13,,,Rejected
+C00369,Marketing Specialist,HR,Referral,2024-03-23,2024-04-02,2024-04-14,,,Rejected
+C00370,Sales Executive,Tech,AngelList,2024-11-05,2024-11-12,,,,Rejected
+C00371,Sales Executive,Marketing,Naukri,2024-12-23,2025-01-01,,,,Hired
+C00372,Sales Executive,Sales,Referral,2024-02-19,2024-02-26,2024-02-28,,,Dropped
+C00373,Product Manager,Marketing,Company Website,2024-09-30,2024-10-01,2024-10-04,,,Hired
+C00374,Product Manager,Tech,AngelList,2024-04-25,,,,,Rejected
+C00375,Data Scientist,HR,Company Website,2023-11-05,2023-11-09,,,,Dropped
+C00376,Marketing Specialist,Tech,AngelList,2024-04-09,2024-04-16,2024-04-25,2024-05-05,,Dropped
+C00377,Marketing Specialist,Tech,AngelList,2024-02-18,2024-02-24,2024-03-07,,,Rejected
+C00378,Product Manager,Sales,Company Website,2025-01-10,2025-01-14,2025-01-29,2025-01-31,,Dropped
+C00379,Data Scientist,Marketing,Referral,9999-99-99,2025-06-02,2025-06-14,2025-06-21,,Rejected
+C00380,Product Manager,Tech,Naukri,2024-03-30,2024-03-31,2024-04-05,2024-04-07,,Rejected
+C00381,HR Manager,Tech,Naukri,2023-10-08,2023-10-10,2023-10-19,,,Rejected
+C00382,Data Scientist,HR,AngelList,2025-05-08,2025-05-17,2025-05-21,2025-05-25,,Rejected
+C00383,Marketing Specialist,Product,Company Website,2023-12-25,2023-12-28,2024-01-06,2024-01-08,,Dropped
+C00384,Marketing Specialist,HR,AngelList,2024-04-22,2024-05-02,2024-05-10,2024-05-17,2024-05-21,Hired
+C00385,Product Manager,Marketing,Naukri,2024-09-06,2024-09-09,2024-09-18,2024-09-21,,Dropped
+C00386,HR Manager,Marketing,AngelList,2024-08-26,2024-09-05,2024-09-11,2024-09-20,2024-10-01,Hired
+C00387,Product Manager,Sales,AngelList,9999-99-99,2025-05-04,2025-05-11,2025-05-17,,Dropped
+C00388,Software Engineer,Product,Naukri,2024-08-03,2024-08-13,2024-08-20,2024-08-25,,Rejected
+C00389,Software Engineer,Marketing,Referral,2025-02-08,2025-02-16,2025-02-23,,,Dropped
+C00390,HR Manager,Product,AngelList,2025-01-20,,,,,Dropped
+C00391,Sales Executive,HR,Referral,2024-04-13,2024-04-14,2024-04-29,2024-05-04,,Dropped
+C00392,Sales Executive,Marketing,AngelList,2024-01-10,2024-01-14,2024-01-15,2024-01-20,,Rejected
+C00393,Software Engineer,Tech,Company Website,2023-11-20,2023-11-29,2023-12-14,2023-12-16,2023-12-18,Hired
+C00394,Software Engineer,Marketing,AngelList,2024-12-27,2024-12-30,,,,Dropped
+C00395,Sales Executive,Product,AngelList,2024-03-09,2024-03-19,2024-03-24,2024-03-26,,Rejected
+C00396,Data Scientist,Marketing,LinkedIn,2023-11-01,2023-11-11,2023-11-23,,,Hired
+C00397,Sales Executive,Sales,Company Website,2023-10-22,2023-10-30,,,,Rejected
+C00398,Product Manager,Tech,Company Website,2024-10-16,2024-10-26,2024-10-28,2024-11-02,2024-11-04,Hired
+C00399,Data Scientist,Sales,Referral,2025-01-09,2025-01-19,2025-02-01,,,Rejected
+C00400,Product Manager,HR,Referral,2024-08-26,2024-09-01,2024-09-08,2024-09-10,,Rejected
+C00401,Software Engineer,Marketing,AngelList,2025-03-21,2025-03-25,2025-04-08,2025-04-09,,Rejected
+C00402,Data Scientist,Marketing,Naukri,2023-09-10,2023-09-17,,,,Rejected
+C00403,Product Manager,HR,AngelList,2024-03-02,2024-03-08,2024-03-11,2024-03-15,,Rejected
+C00404,Product Manager,Sales,LinkedIn,2025-05-22,2025-05-29,2025-06-11,2025-06-20,,Dropped
+C00405,Data Scientist,Tech,AngelList,2024-08-27,,,,,Dropped
+C00406,HR Manager,Sales,LinkedIn,2024-09-23,2024-09-30,,,,Hired
+C00407,Sales Executive,Product,AngelList,2023-11-07,2023-11-15,2023-11-16,2023-11-21,,Dropped
+C00408,Marketing Specialist,Sales,Referral,2025-03-12,,,,,Rejected
+C00409,Product Manager,Tech,AngelList,9999-99-99,2025-07-15,2025-07-23,2025-07-31,,Rejected
+C00410,Sales Executive,Marketing,Referral,2024-04-08,2024-04-18,,,,Dropped
+C00411,Marketing Specialist,Sales,Naukri,2024-01-29,2024-02-07,2024-02-09,,,Hired
+C00412,Sales Executive,HR,Naukri,2024-02-03,2024-02-13,,,,Hired
+C00413,Software Engineer,Tech,Company Website,2024-08-28,2024-09-04,2024-09-08,2024-09-18,2024-09-19,Hired
+C00414,Marketing Specialist,Marketing,AngelList,2024-06-21,2024-06-24,2024-07-04,2024-07-12,,Dropped
+C00415,Sales Executive,Tech,Company Website,2025-05-22,2025-05-30,,,,Rejected
+C00416,Product Manager,HR,AngelList,2023-10-03,2023-10-07,2023-10-10,2023-10-12,2023-10-16,Hired
+C00417,Marketing Specialist,Product,Naukri,2025-07-20,2025-07-24,2025-08-08,,,Hired
+C00418,Software Engineer,Tech,LinkedIn,2024-04-11,9999-99-99,,,,Hired
+C00419,Data Scientist,Tech,Company Website,2024-08-28,2024-08-30,2024-09-07,,,Rejected
+C00420,Product Manager,Sales,Company Website,2024-06-28,2024-07-07,2024-07-16,2024-07-21,,Rejected
+C00421,Software Engineer,HR,Naukri,2023-10-02,2023-10-12,2023-10-15,2023-10-16,2023-10-29,Hired
+C00422,Software Engineer,HR,Naukri,2023-10-29,2023-11-07,,,,Rejected
+C00423,Marketing Specialist,Product,LinkedIn,2024-06-24,2024-06-29,2024-07-11,2024-07-12,2024-07-27,Hired
+C00424,Sales Executive,HR,Company Website,2025-05-24,2025-05-25,,,,Dropped
+C00425,Data Scientist,Tech,Naukri,2024-11-25,2024-12-01,2024-12-02,,,Hired
+C00426,Product Manager,Product,Naukri,2023-12-11,2023-12-18,2023-12-25,2023-12-27,,Dropped
+C00427,Product Manager,HR,LinkedIn,2023-10-22,2023-10-30,2023-11-08,,,Rejected
+C00428,Sales Executive,Product,LinkedIn,2023-10-24,2023-11-01,2023-11-13,,,Hired
+C00429,Data Scientist,HR,Referral,2025-06-16,2025-06-25,2025-07-03,2025-07-06,,Rejected
+C00430,Marketing Specialist,HR,AngelList,2025-02-03,,,,,Hired
+C00431,Product Manager,Sales,Referral,2024-09-05,2024-09-11,2024-09-15,2024-09-24,,Dropped
+C00432,Data Scientist,HR,LinkedIn,2023-12-18,2023-12-19,2024-01-03,2024-01-04,,Rejected
+C00433,Marketing Specialist,Product,Naukri,2023-08-07,2023-08-12,2023-08-18,2023-08-21,,Rejected
+C00434,Marketing Specialist,Tech,LinkedIn,2024-11-03,,,,,Hired
+C00435,Product Manager,Sales,Company Website,2024-01-05,2024-01-15,2024-01-26,,,Rejected
+C00436,Sales Executive,HR,Naukri,2024-08-10,2024-08-13,2024-08-18,2024-08-24,,Dropped
+C00437,HR Manager,HR,Referral,2023-12-25,2023-12-28,2023-12-31,2024-01-04,,Dropped
+C00438,Product Manager,Product,Referral,2024-07-13,2024-07-18,2024-08-02,2024-08-05,2024-08-19,Hired
+C00439,Software Engineer,Sales,Referral,2025-04-05,2025-04-08,2025-04-18,2025-04-24,2025-04-27,Hired
+C00440,Software Engineer,HR,Naukri,2023-08-31,2023-09-02,,,,Rejected
+C00441,Marketing Specialist,Tech,AngelList,2024-12-17,2024-12-20,2025-01-02,2025-01-09,,Dropped
+C00442,HR Manager,Tech,AngelList,2025-07-25,9999-99-99,2025-08-14,2025-08-19,,Rejected
+C00443,Product Manager,HR,AngelList,2025-03-11,2025-03-15,,,,Dropped
+C00444,Software Engineer,Tech,LinkedIn,2024-07-28,2024-08-07,2024-08-17,2024-08-21,,Dropped
+C00445,Software Engineer,Sales,LinkedIn,2025-03-06,2025-03-10,2025-03-16,,,Hired
+C00446,Product Manager,HR,Company Website,2023-12-04,2023-12-07,2023-12-17,2023-12-23,,Rejected
+C00447,Data Scientist,Product,Naukri,2024-05-24,2024-05-31,2024-06-03,,,Dropped
+C00448,Marketing Specialist,Sales,Company Website,2024-11-11,2024-11-18,2024-11-19,2024-11-26,2024-12-04,Hired
+C00449,Product Manager,Tech,LinkedIn,2024-04-07,2024-04-11,2024-04-13,,,Dropped
+C00450,Data Scientist,HR,Naukri,2023-08-14,2023-08-22,2023-08-30,2023-09-07,2023-09-15,Hired
+C00451,Marketing Specialist,Sales,Referral,2024-04-08,2024-04-09,2024-04-23,2024-04-29,2024-05-12,Hired
+C00452,HR Manager,Tech,Naukri,2024-09-08,2024-09-18,2024-09-27,2024-09-28,2024-10-15,Hired
+C00453,Sales Executive,HR,LinkedIn,2024-02-02,2024-02-10,2024-02-11,2024-02-15,,Rejected
+C00454,Marketing Specialist,Marketing,Referral,2025-02-08,2025-02-15,2025-02-16,2025-02-25,2025-02-27,Hired
+C00455,HR Manager,Product,Referral,2024-07-18,2024-07-26,2024-07-31,2024-08-05,2024-08-20,Hired
+C00456,Sales Executive,Tech,Naukri,2025-02-15,2025-02-20,2025-02-21,2025-02-24,,Dropped
+C00457,Software Engineer,Tech,AngelList,2024-10-31,2024-11-08,,,,Hired
+C00458,Software Engineer,Marketing,LinkedIn,2024-01-16,2024-01-19,2024-02-03,2024-02-06,,Dropped
+C00459,Software Engineer,Marketing,LinkedIn,2024-11-14,2024-11-20,2024-11-23,2024-11-27,,Dropped
+C00460,Marketing Specialist,Sales,AngelList,2024-07-22,2024-07-24,2024-08-05,2024-08-08,,Rejected
+C00461,Data Scientist,Product,Company Website,2024-07-20,2024-07-22,,,,Hired
+C00462,Sales Executive,Product,Company Website,2024-05-07,2024-05-13,,,,Hired
+C00463,Software Engineer,Tech,LinkedIn,2025-01-21,2025-01-30,2025-02-02,2025-02-09,,Dropped
+C00464,Product Manager,Marketing,AngelList,2024-07-03,,,,,Rejected
+C00465,Sales Executive,Product,AngelList,2025-05-21,2025-05-27,2025-06-07,2025-06-10,2025-06-15,Hired
+C00466,Sales Executive,HR,Referral,2025-03-09,2025-03-10,2025-03-15,2025-03-23,,Rejected
+C00467,Data Scientist,Product,Company Website,2025-03-27,2025-03-30,,,,Dropped
+C00468,HR Manager,Tech,Company Website,2024-07-04,9999-99-99,,,,Hired
+C00469,Data Scientist,Product,Referral,2024-01-31,2024-02-01,2024-02-15,2024-02-16,,Rejected
+C00470,Software Engineer,Sales,Naukri,2024-04-16,2024-04-24,2024-05-04,2024-05-12,2024-05-26,Hired
+C00471,Product Manager,Marketing,Company Website,2024-02-18,2024-02-28,2024-03-03,2024-03-08,2024-03-28,Hired
+C00472,Product Manager,Tech,Referral,2023-12-29,2024-01-02,,,,Rejected
+C00473,Software Engineer,Tech,AngelList,2024-03-07,2024-03-13,,,,Hired
+C00474,Product Manager,Marketing,Naukri,2024-01-05,2024-01-15,2024-01-20,2024-01-22,,Dropped
+C00475,Data Scientist,Marketing,LinkedIn,2023-08-15,,,,,Hired
+C00476,Marketing Specialist,Marketing,AngelList,2024-03-31,2024-04-03,,,,Hired
+C00477,Data Scientist,Tech,Naukri,2024-10-07,2024-10-17,2024-10-26,,,Rejected
+C00478,Marketing Specialist,Marketing,Referral,2025-06-29,2025-07-09,2025-07-10,,,Rejected
+C00479,Software Engineer,Marketing,AngelList,2024-01-18,2024-01-24,2024-02-07,,,Rejected
+C00480,Product Manager,Tech,Naukri,2024-02-09,2024-02-18,,,,Hired
+C00481,Sales Executive,Tech,LinkedIn,2025-03-21,2025-03-23,2025-03-28,2025-04-04,,Rejected
+C00482,HR Manager,Sales,AngelList,2023-09-30,2023-10-04,2023-10-06,2023-10-15,2023-10-18,Hired
+C00483,Sales Executive,Product,AngelList,2023-11-13,2023-11-23,2023-12-05,,,Dropped
+C00484,Marketing Specialist,HR,Company Website,2025-05-05,2025-05-11,2025-05-21,2025-05-27,,Dropped
+C00485,Data Scientist,Tech,Naukri,2024-04-02,2024-04-12,2024-04-21,2024-04-29,2024-05-15,Hired
+C00486,Data Scientist,HR,Naukri,2024-10-16,2024-10-26,2024-10-31,2024-11-01,2024-11-05,Hired
+C00487,Data Scientist,Sales,Company Website,2025-03-03,,,,,Dropped
+C00488,Data Scientist,Product,Referral,2023-11-19,2023-11-21,2023-11-25,2023-12-02,,Dropped
+C00489,HR Manager,Product,Referral,2023-11-13,2023-11-19,2023-12-02,2023-12-03,2023-12-10,Hired
+C00490,Software Engineer,Product,Company Website,2025-03-31,2025-04-05,2025-04-10,2025-04-19,,Dropped
+C00491,Data Scientist,Sales,AngelList,2024-11-09,2024-11-10,,,,Dropped
+C00492,Marketing Specialist,Marketing,LinkedIn,2023-11-06,2023-11-13,2023-11-23,2023-11-26,2023-12-03,Hired
+C00493,Product Manager,Product,Referral,2024-07-26,2024-08-01,2024-08-09,2024-08-10,,Rejected
+C00494,HR Manager,Product,LinkedIn,2024-05-08,2024-05-16,,,,Rejected
+C00495,Marketing Specialist,Sales,Naukri,2024-12-13,2024-12-22,2024-12-30,2025-01-06,,Dropped
+C00496,Marketing Specialist,Marketing,Naukri,2025-05-18,2025-05-19,2025-05-24,2025-05-30,2025-06-17,Hired
+C00497,Data Scientist,Product,Referral,2024-06-17,2024-06-21,2024-06-27,2024-07-03,,Dropped
+C00498,Product Manager,Product,AngelList,2024-06-20,,,,,Dropped
+C00499,Data Scientist,Marketing,Naukri,2023-12-13,2023-12-14,2023-12-21,2023-12-24,2024-01-12,Hired
+C00500,Marketing Specialist,Tech,LinkedIn,2024-02-10,2024-02-13,2024-02-27,2024-03-03,,Rejected
+C00501,Software Engineer,Tech,AngelList,2025-05-21,2025-05-27,2025-06-01,2025-06-09,,Dropped
+C00502,HR Manager,Product,Referral,2025-06-07,2025-06-13,2025-06-18,,,Dropped
+C00503,Software Engineer,HR,Naukri,2023-08-09,2023-08-11,2023-08-12,2023-08-14,,Rejected
+C00504,HR Manager,Marketing,Referral,2024-04-11,2024-04-12,2024-04-27,2024-05-01,2024-05-12,Hired
+C00505,Data Scientist,Marketing,AngelList,2023-12-28,2024-01-06,2024-01-12,,,Hired
+C00506,Data Scientist,HR,AngelList,2024-05-13,2024-05-22,2024-05-25,,,Hired
+C00507,HR Manager,Marketing,AngelList,2024-07-19,,,,,Hired
+C00508,Product Manager,Sales,Company Website,2024-11-24,2024-12-03,,,,Hired
+C00509,Product Manager,Marketing,Company Website,2023-10-10,2023-10-11,2023-10-21,2023-10-27,,Dropped
+C00510,Data Scientist,Marketing,LinkedIn,2024-12-17,2024-12-18,,,,Dropped
+C00511,Data Scientist,Marketing,AngelList,2024-01-23,2024-01-28,,,,Rejected
+C00512,Software Engineer,Tech,AngelList,2024-09-30,2024-10-04,2024-10-08,,,Rejected
+C00513,Marketing Specialist,Sales,Naukri,2024-05-05,2024-05-13,2024-05-18,,,Rejected
+C00514,Data Scientist,Marketing,LinkedIn,2024-07-25,2024-07-26,2024-08-04,2024-08-08,,Rejected
+C00515,HR Manager,Sales,LinkedIn,2024-07-02,2024-07-11,2024-07-14,2024-07-19,2024-08-07,Hired
+C00516,Product Manager,Sales,Referral,2024-04-02,2024-04-04,2024-04-19,2024-04-27,2024-04-29,Hired
+C00517,Product Manager,Sales,AngelList,2024-11-11,2024-11-19,2024-11-20,,,Rejected
+C00518,Software Engineer,HR,Naukri,2024-12-02,,,,,Dropped
+C00519,Product Manager,Marketing,Referral,2024-09-30,2024-10-03,2024-10-18,2024-10-26,2024-11-15,Hired
+C00520,Product Manager,Tech,Company Website,2024-07-11,2024-07-17,2024-07-29,2024-08-07,2024-08-10,Hired
+C00521,Marketing Specialist,Tech,AngelList,2025-07-08,2025-07-16,9999-99-99,2025-07-26,,Dropped
+C00522,Sales Executive,Tech,LinkedIn,2024-09-20,,,,,Dropped
+C00523,HR Manager,Tech,AngelList,2023-10-16,2023-10-24,2023-10-28,,,Dropped
+C00524,Marketing Specialist,Marketing,AngelList,2023-11-22,2023-11-27,2023-12-04,,,Dropped
+C00525,Sales Executive,Tech,Company Website,2023-12-23,2023-12-29,2024-01-13,2024-01-21,,Dropped
+C00526,Product Manager,Sales,Naukri,2024-03-25,,,,,Rejected
+C00527,Software Engineer,HR,Naukri,2023-10-05,2023-10-11,2023-10-25,,,Dropped
+C00528,Software Engineer,Product,Naukri,2024-01-10,2024-01-20,2024-01-29,,,Hired
+C00529,Product Manager,Tech,Referral,2024-10-17,2024-10-19,2024-10-30,,,Dropped
+C00530,Data Scientist,Product,Naukri,2024-05-17,2024-05-25,2024-06-01,,,Rejected
+C00531,Sales Executive,Product,Referral,2024-12-11,2024-12-14,2024-12-21,,,Hired
+C00532,Product Manager,Product,Company Website,2023-10-23,2023-11-02,2023-11-09,2023-11-15,,Dropped
+C00533,Software Engineer,Sales,AngelList,2025-03-21,2025-03-25,,,,Dropped
+C00534,Software Engineer,Tech,Referral,2024-12-27,2025-01-06,2025-01-08,2025-01-16,,Dropped
+C00535,Sales Executive,Marketing,Company Website,2023-10-15,2023-10-17,2023-10-20,2023-10-27,2023-10-30,Hired
+C00536,HR Manager,Sales,Referral,2024-09-12,2024-09-22,9999-99-99,2024-09-30,,Dropped
+C00537,Product Manager,Marketing,Company Website,2024-03-01,,,,,Rejected
+C00538,Marketing Specialist,Tech,Naukri,2025-05-15,2025-05-25,2025-06-05,2025-06-08,,Rejected
+C00539,Product Manager,Sales,Naukri,9999-99-99,2025-02-06,2025-02-13,2025-02-21,,Dropped
+C00540,HR Manager,Product,Company Website,2023-10-05,2023-10-11,2023-10-24,2023-10-29,2023-11-12,Hired
+C00541,Sales Executive,Sales,LinkedIn,2025-06-27,2025-07-03,2025-07-13,,,Hired
+C00542,Sales Executive,Sales,Company Website,2024-01-12,2024-01-19,2024-02-02,,,Rejected
+C00543,Software Engineer,Tech,Referral,2025-06-05,2025-06-14,2025-06-15,2025-06-21,,Rejected
+C00544,HR Manager,Product,Company Website,2023-09-23,2023-09-28,2023-10-02,2023-10-12,2023-10-25,Hired
+C00545,Sales Executive,Product,AngelList,2024-10-15,2024-10-22,2024-10-29,2024-11-01,2024-11-17,Hired
+C00546,Data Scientist,HR,LinkedIn,2024-05-06,2024-05-15,2024-05-30,2024-06-06,,Rejected
+C00547,Product Manager,HR,Company Website,2024-12-17,2024-12-20,,,,Dropped
+C00548,Software Engineer,Marketing,LinkedIn,2024-09-08,,,,,Dropped
+C00549,Marketing Specialist,HR,LinkedIn,2024-12-02,,,,,Hired
+C00550,HR Manager,Tech,Company Website,2023-11-09,2023-11-17,2023-11-20,,,Dropped
+C00551,Software Engineer,Sales,Company Website,2024-05-12,2024-05-19,2024-06-03,2024-06-13,2024-06-27,Hired
+C00552,Sales Executive,Product,Naukri,2025-06-05,2025-06-13,2025-06-22,2025-06-29,,Rejected
+C00553,Sales Executive,Sales,Company Website,2023-11-17,2023-11-20,2023-11-21,2023-11-25,,Rejected
+C00554,Marketing Specialist,Tech,Company Website,2025-06-12,2025-06-17,2025-06-26,2025-06-27,2025-06-29,Hired
+C00555,Marketing Specialist,Sales,Naukri,2023-11-14,2023-11-20,,,,Rejected
+C00556,Marketing Specialist,Product,Naukri,2024-12-12,2024-12-14,,,,Dropped
+C00557,Marketing Specialist,HR,AngelList,2024-06-03,2024-06-08,2024-06-10,2024-06-20,,Rejected
+C00558,Marketing Specialist,Marketing,Company Website,2024-05-30,,,,,Rejected
+C00559,Data Scientist,Product,Referral,2024-05-30,2024-06-01,2024-06-10,2024-06-15,,Dropped
+C00560,Product Manager,Product,LinkedIn,2025-07-19,2025-07-25,2025-07-26,2025-08-04,,Dropped
+C00561,HR Manager,Product,Naukri,2025-07-10,2025-07-20,2025-07-27,2025-08-01,2025-08-11,Hired
+C00562,Software Engineer,Product,Company Website,2023-08-30,2023-09-09,2023-09-21,2023-09-26,,Rejected
+C00563,Marketing Specialist,Tech,Referral,2023-08-11,,,,,Hired
+C00564,Product Manager,Product,LinkedIn,2025-05-04,2025-05-07,2025-05-18,2025-05-28,2025-05-29,Hired
+C00565,Sales Executive,Sales,Company Website,2025-05-28,2025-05-30,,,,Dropped
+C00566,Product Manager,Tech,Referral,2024-06-02,,,,,Hired
+C00567,Marketing Specialist,HR,LinkedIn,2024-12-23,2024-12-28,,,,Hired
+C00568,Software Engineer,Sales,Referral,2025-07-15,2025-07-20,,,,Rejected
+C00569,Marketing Specialist,Sales,Naukri,2023-09-10,2023-09-13,2023-09-25,,,Hired
+C00570,Product Manager,Sales,Company Website,2024-10-17,2024-10-20,2024-11-01,,,Hired
+C00571,Sales Executive,Sales,Referral,2025-02-18,2025-02-27,2025-03-05,2025-03-08,2025-03-28,Hired
+C00572,Product Manager,Tech,Referral,2024-03-15,2024-03-18,2024-03-31,2024-04-07,,Rejected
+C00573,Marketing Specialist,HR,Company Website,2024-03-07,2024-03-15,2024-03-18,,,Dropped
+C00574,HR Manager,HR,LinkedIn,2024-06-19,2024-06-25,,,,Rejected
+C00575,Product Manager,Product,Company Website,2023-12-16,2023-12-18,,,,Dropped
+C00576,HR Manager,Marketing,Referral,2024-09-12,2024-09-20,2024-10-02,2024-10-11,,Dropped
+C00577,Marketing Specialist,Tech,AngelList,2025-03-23,2025-03-30,2025-04-02,2025-04-09,,Dropped
+C00578,Product Manager,HR,LinkedIn,2024-05-19,,,,,Rejected
+C00579,Sales Executive,Tech,Referral,2024-10-21,2024-10-29,2024-11-04,2024-11-05,,Rejected
+C00580,Data Scientist,Tech,AngelList,2024-07-08,,,,,Dropped
+C00581,Data Scientist,Product,LinkedIn,2023-08-02,2023-08-08,2023-08-15,2023-08-20,,Rejected
+C00582,HR Manager,HR,Naukri,2024-02-18,2024-02-23,2024-02-28,2024-03-06,2024-03-21,Hired
+C00583,Marketing Specialist,Marketing,Company Website,2025-06-27,2025-07-01,2025-07-11,2025-07-20,,Dropped
+C00584,HR Manager,Marketing,LinkedIn,2025-03-15,2025-03-18,2025-03-19,2025-03-21,,Dropped
+C00585,Marketing Specialist,Marketing,LinkedIn,2025-06-17,,,,,Dropped
+C00586,Marketing Specialist,Sales,Referral,2024-03-02,,,,,Dropped
+C00587,Data Scientist,HR,AngelList,2025-02-21,2025-03-01,2025-03-13,,,Hired
+C00588,Sales Executive,Sales,LinkedIn,2024-02-01,2024-02-02,2024-02-03,2024-02-07,,Rejected
+C00589,Sales Executive,Sales,Company Website,2023-08-26,2023-08-28,2023-08-30,,,Hired
+C00590,Product Manager,Sales,LinkedIn,2024-10-26,2024-11-02,2024-11-17,2024-11-20,,Rejected
+C00591,HR Manager,Product,LinkedIn,2025-06-03,2025-06-06,2025-06-14,2025-06-16,2025-07-01,Hired
+C00592,Sales Executive,Product,Referral,2024-10-27,2024-11-01,2024-11-13,2024-11-19,,Dropped
+C00593,Software Engineer,Tech,LinkedIn,2024-06-10,2024-06-12,2024-06-13,2024-06-19,2024-06-21,Hired
+C00594,Product Manager,Tech,AngelList,2025-02-09,2025-02-14,,,,Hired
+C00595,Product Manager,HR,Referral,2023-12-18,,,,,Dropped
+C00596,Data Scientist,HR,Naukri,2023-10-03,2023-10-07,2023-10-10,2023-10-12,,Rejected
+C00597,HR Manager,Product,Naukri,2025-03-01,2025-03-08,2025-03-19,,,Rejected
+C00598,Sales Executive,Tech,Referral,2024-12-12,2024-12-17,,,,Dropped
+C00599,Sales Executive,Tech,AngelList,2023-09-15,,,,,Dropped
+C00600,Marketing Specialist,Sales,Referral,2024-12-18,2024-12-23,2024-12-24,2024-12-27,,Dropped
+C00601,Product Manager,Marketing,Referral,2024-07-09,2024-07-10,2024-07-21,2024-07-24,,Dropped
+C00602,HR Manager,Marketing,Referral,2025-01-04,2025-01-11,2025-01-20,2025-01-28,,Dropped
+C00603,HR Manager,Marketing,Referral,2024-10-25,2024-11-01,2024-11-14,2024-11-16,2024-12-04,Hired
+C00604,HR Manager,Product,LinkedIn,2024-05-10,2024-05-17,2024-05-31,2024-06-02,,Rejected
+C00605,Marketing Specialist,Marketing,Company Website,2025-01-10,2025-01-16,2025-01-21,2025-01-23,,Dropped
+C00606,Data Scientist,Marketing,Naukri,2025-05-21,2025-05-27,,,,Rejected
+C00607,Sales Executive,Sales,AngelList,2025-03-11,2025-03-16,2025-03-19,2025-03-26,,Dropped
+C00608,HR Manager,HR,LinkedIn,2024-12-30,2025-01-04,2025-01-19,,,Hired
+C00609,Marketing Specialist,Product,Naukri,2024-03-18,2024-03-26,,,,Hired
+C00610,Data Scientist,Tech,Company Website,2024-09-04,2024-09-08,,,,Hired
+C00611,Marketing Specialist,Sales,Referral,2024-08-28,2024-09-07,2024-09-14,,,Hired
+C00612,Software Engineer,Marketing,Company Website,2024-05-17,2024-05-22,2024-06-05,2024-06-06,,Rejected
+C00613,Product Manager,Tech,Naukri,2024-11-30,,,,,Hired
+C00614,Sales Executive,Sales,Naukri,2024-08-15,,,,,Rejected
+C00615,Marketing Specialist,Product,LinkedIn,2025-04-27,2025-04-28,2025-05-02,2025-05-11,,Dropped
+C00616,Marketing Specialist,Marketing,LinkedIn,2025-04-03,2025-04-12,,,,Dropped
+C00617,Sales Executive,Product,AngelList,2023-09-20,2023-09-22,,,,Hired
+C00618,Product Manager,Sales,Referral,2024-12-07,2024-12-08,2024-12-23,2024-12-27,,Rejected
+C00619,Software Engineer,Tech,Company Website,2025-06-05,2025-06-08,,,,Dropped
+C00620,Data Scientist,HR,Referral,2025-06-04,2025-06-09,2025-06-11,2025-06-14,,Dropped
+C00621,Marketing Specialist,Marketing,Company Website,2023-11-13,2023-11-15,2023-11-17,,,Dropped
+C00622,Product Manager,Product,Referral,2024-12-08,2024-12-18,2024-12-31,,,Dropped
+C00623,Data Scientist,Tech,Naukri,2024-11-23,2024-11-30,2024-12-11,2024-12-14,2024-12-25,Hired
+C00624,Data Scientist,Tech,Naukri,2023-09-14,2023-09-18,2023-09-28,,,Hired
+C00625,Data Scientist,HR,Referral,2024-09-13,,,,,Hired
+C00626,Software Engineer,Sales,AngelList,2024-03-11,2024-03-18,,,,Dropped
+C00627,Software Engineer,HR,Naukri,2025-07-21,2025-07-24,2025-08-08,2025-08-11,2025-08-15,Hired
+C00628,Data Scientist,HR,AngelList,2024-11-14,2024-11-24,2024-11-27,,,Dropped
+C00629,HR Manager,Sales,Naukri,2025-03-11,2025-03-12,,,,Hired
+C00630,Sales Executive,Sales,LinkedIn,2024-03-14,2024-03-24,2024-03-31,2024-04-08,2024-04-13,Hired
+C00631,Software Engineer,Sales,LinkedIn,2023-10-22,2023-10-27,2023-11-03,,,Rejected
+C00632,HR Manager,Tech,Referral,2023-08-27,2023-08-28,2023-09-09,2023-09-11,,Rejected
+C00633,HR Manager,Tech,Company Website,2023-12-25,2023-12-30,2023-12-31,2024-01-04,,Dropped
+C00634,Marketing Specialist,Marketing,LinkedIn,2024-04-16,2024-04-25,2024-05-05,2024-05-14,,Dropped
+C00635,Sales Executive,Marketing,Naukri,2025-03-23,2025-03-31,2025-04-11,,,Dropped
+C00636,Data Scientist,HR,Naukri,2024-08-25,,,,,Rejected
+C00637,Marketing Specialist,HR,LinkedIn,2024-06-16,9999-99-99,2024-07-04,2024-07-07,2024-07-13,Hired
+C00638,Marketing Specialist,Marketing,LinkedIn,2024-04-29,2024-04-30,,,,Rejected
+C00639,HR Manager,Product,Company Website,2023-12-22,2023-12-26,2024-01-01,2024-01-09,2024-01-11,Hired
+C00640,HR Manager,HR,LinkedIn,2024-08-06,2024-08-07,2024-08-10,,,Dropped
+C00641,HR Manager,Product,Referral,2025-01-08,,,,,Rejected
+C00642,Data Scientist,Product,Company Website,2025-02-10,2025-02-12,2025-02-24,2025-03-06,,Dropped
+C00643,Data Scientist,Sales,LinkedIn,2024-09-20,2024-09-24,2024-10-09,2024-10-11,2024-10-22,Hired
+C00644,Marketing Specialist,Tech,Naukri,2023-09-01,2023-09-05,2023-09-19,,,Hired
+C00645,Marketing Specialist,Marketing,LinkedIn,2023-10-29,9999-99-99,2023-11-08,,,Rejected
+C00646,Software Engineer,Tech,Referral,2024-05-31,2024-06-04,2024-06-12,,,Rejected
+C00647,Software Engineer,Marketing,Referral,2025-06-04,2025-06-12,2025-06-23,2025-06-28,,Rejected
+C00648,HR Manager,Tech,Naukri,2024-11-24,2024-11-27,,,,Dropped
+C00649,Data Scientist,Marketing,Company Website,2025-04-01,2025-04-06,,,,Hired
+C00650,Data Scientist,Tech,Naukri,2024-08-29,2024-09-06,2024-09-19,2024-09-24,,Rejected
+C00651,Marketing Specialist,Sales,LinkedIn,2023-11-15,2023-11-25,2023-12-05,2023-12-09,,Dropped
+C00652,Sales Executive,Product,Naukri,2025-02-23,,,,,Dropped
+C00653,HR Manager,Marketing,Company Website,2024-01-27,2024-02-04,2024-02-08,2024-02-16,,Dropped
+C00654,Software Engineer,Product,AngelList,2025-05-28,2025-06-04,2025-06-08,,,Hired
+C00655,Sales Executive,Marketing,Naukri,2025-06-11,2025-06-15,2025-06-25,2025-07-05,,Rejected
+C00656,Data Scientist,Marketing,Company Website,2023-12-05,2023-12-12,2023-12-13,2023-12-22,,Rejected
+C00657,Software Engineer,Sales,AngelList,2023-10-25,,,,,Dropped
+C00658,HR Manager,Tech,Company Website,2024-06-10,2024-06-18,2024-06-30,2024-07-08,,Rejected
+C00659,Data Scientist,Marketing,Company Website,2025-05-20,2025-05-22,2025-05-23,2025-05-30,2025-06-06,Hired
+C00660,HR Manager,Tech,AngelList,2024-10-10,2024-10-15,2024-10-17,,,Rejected
+C00661,Marketing Specialist,Sales,Naukri,2024-09-12,2024-09-15,2024-09-29,2024-10-09,,Dropped
+C00662,Sales Executive,HR,AngelList,2025-03-08,,,,,Hired
+C00663,Sales Executive,Product,Naukri,2024-09-11,2024-09-14,2024-09-21,,,Rejected
+C00664,Sales Executive,Marketing,Company Website,2024-01-27,2024-02-04,9999-99-99,2024-02-07,2024-02-20,Hired
+C00665,Product Manager,Sales,Naukri,2024-04-29,2024-05-05,2024-05-10,2024-05-15,,Rejected
+C00666,HR Manager,Tech,Referral,2024-12-14,2024-12-24,2025-01-06,,,Hired
+C00667,Sales Executive,Marketing,AngelList,2025-01-19,2025-01-29,2025-02-10,2025-02-19,,Dropped
+C00668,Marketing Specialist,Tech,AngelList,2024-04-09,2024-04-15,2024-04-17,2024-04-25,,Dropped
+C00669,Sales Executive,HR,LinkedIn,2025-01-31,2025-02-06,2025-02-17,2025-02-19,,Dropped
+C00670,HR Manager,Marketing,Company Website,2025-06-05,2025-06-09,,,,Hired
+C00671,Sales Executive,Product,Company Website,2024-01-05,2024-01-14,,,,Hired
+C00672,HR Manager,Marketing,Naukri,2023-09-15,2023-09-25,2023-10-07,,,Dropped
+C00673,Data Scientist,Product,Referral,2025-01-11,2025-01-15,2025-01-30,,,Dropped
+C00674,Marketing Specialist,Tech,Company Website,2023-08-29,2023-09-03,,,,Hired
+C00675,HR Manager,Marketing,Referral,2025-06-05,2025-06-13,2025-06-22,2025-06-30,2025-07-18,Hired
+C00676,HR Manager,Sales,LinkedIn,2024-09-15,2024-09-24,2024-10-02,2024-10-04,2024-10-11,Hired
+C00677,Product Manager,Sales,AngelList,2024-10-24,2024-11-01,,,,Hired
+C00678,Data Scientist,HR,Referral,2024-10-14,2024-10-17,2024-10-19,,,Hired
+C00679,Marketing Specialist,Sales,Company Website,2024-08-23,2024-08-26,2024-09-09,,,Rejected
+C00680,Product Manager,HR,AngelList,2024-05-28,2024-05-29,2024-06-09,2024-06-12,,Rejected
+C00681,Sales Executive,Tech,Referral,2025-04-14,2025-04-21,2025-05-02,,,Rejected
+C00682,HR Manager,Product,Referral,2023-09-22,2023-09-23,2023-09-27,2023-10-06,2023-10-17,Hired
+C00683,Marketing Specialist,Tech,Naukri,2024-05-20,2024-05-26,2024-06-08,2024-06-18,2024-07-05,Hired
+C00684,Data Scientist,Product,AngelList,2024-05-11,2024-05-19,2024-05-29,,,Hired
+C00685,Product Manager,Product,Referral,9999-99-99,2023-11-11,2023-11-15,2023-11-20,,Dropped
+C00686,HR Manager,HR,Naukri,2025-06-26,2025-06-27,,,,Dropped
+C00687,Software Engineer,Sales,Company Website,2024-06-27,2024-06-30,2024-07-03,2024-07-08,,Dropped
+C00688,Marketing Specialist,Sales,Referral,2025-06-15,2025-06-18,2025-06-30,2025-07-03,,Dropped
+C00689,Product Manager,HR,Naukri,2025-06-05,9999-99-99,,,,Rejected
+C00690,Data Scientist,HR,Naukri,2024-09-24,2024-09-27,2024-10-03,,,Hired
+C00691,Product Manager,Tech,AngelList,2024-04-15,2024-04-16,2024-04-22,,,Rejected
+C00692,Product Manager,HR,Naukri,2024-07-25,2024-07-28,2024-07-30,2024-08-06,2024-08-22,Hired
+C00693,Product Manager,Sales,Referral,2024-11-25,2024-12-03,2024-12-06,,,Rejected
+C00694,Sales Executive,HR,LinkedIn,2024-05-09,2024-05-18,2024-05-30,,,Dropped
+C00695,Software Engineer,HR,Company Website,2024-02-18,2024-02-28,2024-03-12,2024-03-20,,Rejected
+C00696,Data Scientist,Product,Referral,2024-02-01,2024-02-03,2024-02-18,,,Rejected
+C00697,Data Scientist,HR,Referral,2025-05-11,2025-05-13,2025-05-20,2025-05-24,2025-06-08,Hired
+C00698,Data Scientist,Tech,Company Website,2023-09-20,2023-09-26,,,,Dropped
+C00699,HR Manager,HR,Company Website,2023-12-30,2024-01-09,2024-01-22,2024-01-27,,Rejected
+C00700,Marketing Specialist,Marketing,Naukri,2024-09-25,2024-09-27,2024-10-05,2024-10-07,2024-10-24,Hired
+C00701,Data Scientist,Marketing,Referral,2023-09-12,2023-09-20,2023-09-30,2023-10-01,,Dropped
+C00702,Marketing Specialist,Product,Naukri,2024-06-10,2024-06-16,2024-06-28,2024-07-04,,Dropped
+C00703,Data Scientist,Product,AngelList,2025-04-08,2025-04-09,2025-04-15,2025-04-23,2025-05-11,Hired
+C00704,Software Engineer,Marketing,Naukri,2024-08-03,,,,,Hired
+C00705,HR Manager,Product,AngelList,2024-12-15,2024-12-23,2024-12-30,2025-01-04,2025-01-10,Hired
+C00706,HR Manager,Product,LinkedIn,2025-06-12,2025-06-19,2025-06-26,,,Dropped
+C00707,Product Manager,Sales,Referral,2024-03-19,2024-03-21,,,,Hired
+C00708,Sales Executive,Sales,AngelList,2024-07-19,2024-07-28,2024-07-30,2024-08-09,,Rejected
+C00709,HR Manager,HR,LinkedIn,2024-12-04,2024-12-06,,,,Hired
+C00710,HR Manager,Marketing,Company Website,2025-07-15,2025-07-20,2025-07-29,2025-08-08,,Rejected
+C00711,Software Engineer,Tech,Naukri,2025-04-21,2025-04-24,,,,Rejected
+C00712,Data Scientist,Marketing,LinkedIn,2023-11-05,2023-11-10,2023-11-11,2023-11-16,,Rejected
+C00713,HR Manager,Marketing,AngelList,2024-12-31,2025-01-05,2025-01-17,2025-01-18,,Rejected
+C00714,HR Manager,Sales,Referral,2025-07-21,2025-07-24,2025-08-04,2025-08-12,2025-08-16,Hired
+C00715,Sales Executive,Sales,Company Website,2024-12-25,2024-12-30,2025-01-07,2025-01-11,,Dropped
+C00716,Marketing Specialist,Product,Company Website,2024-03-22,,,,,Rejected
+C00717,Software Engineer,Tech,LinkedIn,2025-05-19,2025-05-27,2025-05-29,2025-06-04,2025-06-23,Hired
+C00718,Sales Executive,Sales,LinkedIn,2023-08-04,2023-08-11,2023-08-22,2023-08-24,,Rejected
+C00719,HR Manager,Product,Naukri,2024-12-17,2024-12-27,,,,Hired
+C00720,HR Manager,Tech,Company Website,2024-12-08,2024-12-18,,,,Rejected
+C00721,Software Engineer,Sales,Company Website,2024-08-11,2024-08-14,2024-08-15,,,Dropped
+C00722,Product Manager,Marketing,Naukri,2024-04-22,2024-04-28,,,,Rejected
+C00723,Product Manager,Marketing,Referral,2024-01-28,2024-01-30,2024-02-12,2024-02-14,,Dropped
+C00724,HR Manager,Tech,Naukri,2025-03-07,2025-03-10,2025-03-24,2025-03-29,,Dropped
+C00725,HR Manager,Tech,AngelList,2024-07-19,2024-07-25,,,,Hired
+C00726,Sales Executive,Sales,AngelList,2025-06-07,2025-06-10,,,,Rejected
+C00727,Marketing Specialist,Sales,LinkedIn,2023-11-21,2023-11-27,2023-12-04,2023-12-07,,Rejected
+C00728,Marketing Specialist,Tech,Naukri,2024-03-30,2024-04-02,2024-04-16,,,Dropped
+C00729,Sales Executive,Tech,Naukri,2024-05-10,2024-05-20,2024-05-29,2024-06-07,,Rejected
+C00730,Sales Executive,Product,LinkedIn,2025-07-19,2025-07-21,2025-08-05,,,Hired
+C00731,Data Scientist,Product,Referral,2024-08-05,2024-08-06,2024-08-11,2024-08-14,,Dropped
+C00732,HR Manager,Product,Naukri,2025-03-10,2025-03-20,2025-03-26,,,Dropped
+C00733,Data Scientist,Marketing,Company Website,2024-11-30,2024-12-02,2024-12-16,2024-12-20,2024-12-30,Hired
+C00734,Product Manager,Marketing,Naukri,2024-07-02,2024-07-05,2024-07-12,2024-07-14,2024-07-17,Hired
+C00735,HR Manager,Product,Referral,2023-09-11,,,,,Hired
+C00736,HR Manager,Product,Naukri,2025-02-11,2025-02-18,,,,Rejected
+C00737,Software Engineer,Tech,Company Website,2024-11-18,2024-11-27,2024-12-05,,,Hired
+C00738,HR Manager,Marketing,AngelList,2023-08-20,2023-08-22,2023-08-23,2023-08-25,2023-09-14,Hired
+C00739,Product Manager,Product,AngelList,2024-12-05,2024-12-09,,,,Dropped
+C00740,Marketing Specialist,HR,Referral,2025-04-10,2025-04-12,,,,Rejected
+C00741,Marketing Specialist,Sales,Referral,2025-05-30,2025-06-04,2025-06-10,2025-06-19,,Dropped
+C00742,HR Manager,Product,Company Website,2023-08-02,2023-08-12,2023-08-22,,,Dropped
+C00743,Marketing Specialist,Marketing,AngelList,2025-03-03,2025-03-04,2025-03-16,,,Hired
+C00744,Data Scientist,Product,AngelList,2024-11-12,2024-11-21,,,,Rejected
+C00745,HR Manager,HR,AngelList,2025-04-26,2025-04-30,2025-05-14,2025-05-20,2025-06-08,Hired
+C00746,Data Scientist,Tech,AngelList,2024-11-05,2024-11-07,,,,Dropped
+C00747,Sales Executive,Marketing,Company Website,2023-08-20,2023-08-27,2023-09-05,,,Rejected
+C00748,Sales Executive,Tech,Referral,2025-04-02,2025-04-08,,,,Dropped
+C00749,Software Engineer,Sales,Referral,2024-03-18,2024-03-21,2024-03-27,2024-04-05,,Dropped
+C00750,HR Manager,Tech,LinkedIn,2025-05-06,2025-05-08,2025-05-10,2025-05-18,,Rejected
+C00751,Sales Executive,Product,Referral,2024-07-03,2024-07-08,2024-07-22,2024-07-31,2024-08-14,Hired
+C00752,Sales Executive,HR,AngelList,2024-01-30,2024-02-06,,,,Hired
+C00753,Marketing Specialist,Tech,Naukri,2024-06-23,,,,,Dropped
+C00754,Software Engineer,HR,AngelList,2024-12-10,2024-12-18,2024-12-24,,,Hired
+C00755,Software Engineer,Marketing,AngelList,2024-03-01,2024-03-09,2024-03-16,2024-03-18,,Rejected
+C00756,Marketing Specialist,Marketing,Referral,2023-11-26,2023-12-03,2023-12-13,2023-12-16,,Rejected
+C00757,HR Manager,Product,LinkedIn,2025-01-30,,,,,Hired
+C00758,Data Scientist,Product,Company Website,2024-06-06,2024-06-12,2024-06-26,2024-06-28,2024-07-06,Hired
+C00759,HR Manager,Product,Naukri,2025-05-08,2025-05-16,2025-05-28,2025-06-07,,Dropped
+C00760,Data Scientist,HR,Naukri,2024-06-03,2024-06-10,2024-06-21,2024-06-28,,Rejected
+C00761,Software Engineer,Sales,LinkedIn,2024-03-11,2024-03-20,2024-04-02,2024-04-04,2024-04-13,Hired
+C00762,Product Manager,Sales,AngelList,2024-10-19,2024-10-23,2024-10-26,,,Hired
+C00763,HR Manager,Sales,Company Website,2024-11-04,9999-99-99,2024-11-07,2024-11-14,2024-12-04,Hired
+C00764,Product Manager,Marketing,Company Website,2023-09-13,2023-09-16,2023-09-26,,,Dropped
+C00765,Data Scientist,Marketing,Company Website,2023-12-28,,,,,Rejected
+C00766,HR Manager,Sales,Referral,2024-02-05,2024-02-13,2024-02-17,,,Dropped
+C00767,Product Manager,Product,AngelList,2024-02-23,2024-03-03,2024-03-09,2024-03-18,,Rejected
+C00768,Product Manager,Tech,Naukri,2024-09-23,2024-09-24,2024-10-09,2024-10-16,,Rejected
+C00769,HR Manager,Sales,Naukri,2024-02-14,2024-02-21,2024-02-22,,,Dropped
+C00770,Product Manager,Tech,AngelList,2025-03-02,2025-03-07,2025-03-10,2025-03-13,2025-03-23,Hired
+C00771,HR Manager,Sales,Naukri,2024-02-27,2024-03-06,2024-03-16,2024-03-25,,Dropped
+C00772,Product Manager,Tech,Referral,2024-11-18,2024-11-28,2024-12-07,2024-12-16,2024-12-18,Hired
+C00773,Software Engineer,Product,Company Website,2023-09-27,2023-10-05,2023-10-12,2023-10-18,,Dropped
+C00774,HR Manager,Marketing,Naukri,2023-10-08,2023-10-13,2023-10-14,2023-10-17,2023-10-29,Hired
+C00775,Software Engineer,Sales,Referral,2025-04-18,2025-04-28,,,,Dropped
+C00776,Marketing Specialist,Sales,Company Website,2023-07-30,2023-08-05,2023-08-12,2023-08-18,,Rejected
+C00777,Sales Executive,Product,AngelList,2025-02-18,2025-02-19,2025-02-23,,,Hired
+C00778,Software Engineer,HR,AngelList,2024-04-20,2024-04-22,2024-04-24,2024-04-26,,Dropped
+C00779,Product Manager,Sales,Referral,2024-02-12,2024-02-13,2024-02-14,2024-02-21,,Dropped
+C00780,Data Scientist,Tech,Referral,2024-10-03,2024-10-10,2024-10-22,2024-10-23,2024-11-03,Hired
+C00781,Marketing Specialist,Product,Referral,2024-05-30,2024-06-06,2024-06-08,2024-06-10,,Rejected
+C00782,Software Engineer,HR,Naukri,2025-02-25,2025-03-01,2025-03-10,2025-03-16,,Dropped
+C00783,Marketing Specialist,Sales,AngelList,2024-08-01,2024-08-06,2024-08-13,,,Hired
+C00784,Software Engineer,Sales,Naukri,2025-05-31,2025-06-02,2025-06-11,,,Hired
+C00785,Software Engineer,Marketing,Naukri,2024-06-03,2024-06-08,2024-06-15,2024-06-25,,Rejected
+C00786,Data Scientist,HR,Company Website,2023-11-19,2023-11-21,2023-12-01,,,Rejected
+C00787,Data Scientist,Product,Referral,2025-02-26,2025-02-28,2025-03-09,2025-03-13,,Rejected
+C00788,Software Engineer,Tech,Naukri,2024-11-24,2024-11-26,2024-12-01,2024-12-06,,Rejected
+C00789,Sales Executive,Sales,Company Website,2025-05-16,2025-05-25,2025-06-01,2025-06-11,,Dropped
+C00790,Data Scientist,Product,LinkedIn,2024-12-07,2024-12-16,,,,Dropped
+C00791,Data Scientist,Marketing,Company Website,2024-11-09,,,,,Rejected
+C00792,Data Scientist,Sales,LinkedIn,2024-09-14,2024-09-17,2024-09-21,2024-09-29,,Rejected
+C00793,HR Manager,HR,LinkedIn,2025-02-09,2025-02-18,2025-03-04,2025-03-11,,Rejected
+C00794,Marketing Specialist,Product,LinkedIn,2024-08-21,2024-08-22,2024-08-28,2024-09-01,,Rejected
+C00795,Software Engineer,Tech,LinkedIn,2025-07-19,2025-07-24,2025-07-31,2025-08-02,2025-08-09,Hired
+C00796,Sales Executive,Marketing,Referral,2025-03-09,2025-03-14,2025-03-25,,,Hired
+C00797,Data Scientist,Product,Naukri,2024-02-12,2024-02-16,2024-02-18,,,Hired
+C00798,HR Manager,Sales,Naukri,2025-07-06,,,,,Hired
+C00799,Marketing Specialist,Tech,LinkedIn,2024-12-26,2024-12-31,2025-01-09,2025-01-16,,Dropped
+C00800,Product Manager,Sales,Naukri,2025-03-24,2025-03-25,2025-03-30,,,Hired
+C00801,Product Manager,Sales,LinkedIn,2024-08-26,2024-08-31,2024-09-03,2024-09-04,2024-09-20,Hired
+C00802,Data Scientist,HR,Naukri,2025-07-16,2025-07-17,2025-07-19,2025-07-24,2025-07-27,Hired
+C00803,Sales Executive,HR,Company Website,2024-09-21,2024-09-28,2024-10-09,2024-10-11,2024-10-24,Hired
+C00804,Sales Executive,Sales,Referral,2023-08-28,2023-08-31,2023-09-10,2023-09-12,,Rejected
+C00805,Marketing Specialist,Marketing,AngelList,2024-12-19,2024-12-29,2025-01-13,2025-01-21,,Rejected
+C00806,Marketing Specialist,HR,LinkedIn,2024-02-27,2024-03-02,2024-03-15,2024-03-21,,Rejected
+C00807,Software Engineer,HR,Company Website,2024-11-05,2024-11-12,2024-11-24,,,Rejected
+C00808,Data Scientist,HR,Company Website,2025-04-14,2025-04-17,,,,Hired
+C00809,Product Manager,HR,Referral,2024-10-13,2024-10-18,2024-10-23,2024-10-24,,Dropped
+C00810,Software Engineer,Tech,Referral,2023-10-19,2023-10-25,2023-10-27,2023-11-03,,Rejected
+C00811,Sales Executive,Sales,LinkedIn,2024-12-15,2024-12-19,2025-01-03,2025-01-06,2025-01-18,Hired
+C00812,Software Engineer,Tech,LinkedIn,2023-12-13,2023-12-19,2023-12-20,2023-12-30,,Rejected
+C00813,Product Manager,Product,Company Website,2024-12-23,,,,,Rejected
+C00814,Sales Executive,Product,Company Website,2024-12-04,2024-12-05,2024-12-18,2024-12-23,,Rejected
+C00815,Marketing Specialist,Product,Referral,9999-99-99,2023-10-30,2023-11-11,2023-11-13,,Rejected
+C00816,HR Manager,Tech,LinkedIn,2025-07-01,2025-07-05,2025-07-12,,,Hired
+C00817,HR Manager,Sales,LinkedIn,2023-12-07,2023-12-12,2023-12-27,2023-12-31,2024-01-10,Hired
+C00818,Marketing Specialist,Product,Company Website,2024-03-13,2024-03-16,2024-03-27,2024-04-03,2024-04-05,Hired
+C00819,Data Scientist,HR,AngelList,2024-05-24,2024-05-26,2024-06-03,2024-06-10,,Dropped
+C00820,Software Engineer,Product,Company Website,2025-04-29,2025-05-05,2025-05-20,2025-05-22,,Rejected
+C00821,Sales Executive,Marketing,AngelList,2023-12-10,2023-12-15,2023-12-21,2023-12-30,,Dropped
+C00822,Marketing Specialist,HR,LinkedIn,2024-08-08,2024-08-16,2024-08-29,,,Dropped
+C00823,Marketing Specialist,HR,Company Website,2024-06-09,2024-06-17,2024-06-20,,,Dropped
+C00824,Data Scientist,HR,Referral,2025-03-06,2025-03-11,2025-03-13,,,Hired
+C00825,Software Engineer,Product,Naukri,9999-99-99,2024-03-13,2024-03-24,2024-03-30,2024-04-14,Hired
+C00826,Marketing Specialist,HR,LinkedIn,2025-06-12,2025-06-15,2025-06-26,2025-07-02,,Rejected
+C00827,Product Manager,Marketing,LinkedIn,2023-08-02,2023-08-06,,,,Hired
+C00828,Marketing Specialist,Tech,Company Website,2023-09-01,2023-09-08,2023-09-22,2023-09-26,2023-09-27,Hired
+C00829,Sales Executive,Marketing,Naukri,2025-02-21,2025-03-02,2025-03-13,,,Dropped
+C00830,Software Engineer,Sales,Naukri,2025-03-22,,,,,Hired
+C00831,Sales Executive,HR,Naukri,2025-01-11,2025-01-16,2025-01-19,,,Rejected
+C00832,Software Engineer,Marketing,Company Website,2025-03-20,2025-03-30,2025-04-01,2025-04-04,,Rejected
+C00833,Product Manager,Product,Company Website,2023-12-10,2023-12-12,,,,Dropped
+C00834,Sales Executive,Sales,AngelList,2023-10-02,2023-10-10,2023-10-18,,,Hired
+C00835,HR Manager,Marketing,AngelList,2024-10-24,2024-10-28,2024-11-11,2024-11-16,,Dropped
+C00836,Marketing Specialist,HR,AngelList,2025-04-20,2025-04-27,,,,Rejected
+C00837,Product Manager,Product,Referral,2024-07-27,2024-08-06,2024-08-20,,,Rejected
+C00838,Software Engineer,HR,LinkedIn,2025-05-11,2025-05-18,,,,Hired
+C00839,Sales Executive,Sales,AngelList,2024-01-25,2024-01-26,2024-01-31,,,Hired
+C00840,Marketing Specialist,Marketing,Referral,2024-09-11,2024-09-15,2024-09-26,2024-09-28,,Rejected
+C00841,Product Manager,HR,Referral,2024-04-07,,,,,Rejected
+C00842,Software Engineer,Sales,Company Website,2023-08-24,2023-08-30,2023-09-06,2023-09-13,,Dropped
+C00843,HR Manager,Product,Naukri,2024-08-03,2024-08-13,2024-08-15,2024-08-16,,Dropped
+C00844,HR Manager,Marketing,Naukri,2023-08-19,2023-08-23,2023-08-29,2023-09-08,,Dropped
+C00845,Software Engineer,Marketing,AngelList,2024-06-20,2024-06-21,,,,Hired
+C00846,HR Manager,Sales,LinkedIn,2025-03-15,2025-03-22,2025-03-29,2025-04-01,2025-04-19,Hired
+C00847,Product Manager,Marketing,LinkedIn,2023-11-22,,,,,Rejected
+C00848,Marketing Specialist,Product,LinkedIn,2025-05-04,2025-05-07,2025-05-22,2025-05-30,2025-06-04,Hired
+C00849,HR Manager,Product,Referral,2024-04-15,,,,,Hired
+C00850,Marketing Specialist,Marketing,Referral,2023-09-27,2023-10-04,,,,Hired
+C00851,Data Scientist,HR,Referral,2024-12-06,2024-12-07,2024-12-15,2024-12-20,2025-01-01,Hired
+C00852,HR Manager,HR,Company Website,2025-06-23,2025-06-28,2025-07-03,2025-07-08,2025-07-25,Hired
+C00853,Data Scientist,Product,Referral,2023-10-02,2023-10-05,2023-10-13,2023-10-16,2023-11-03,Hired
+C00854,Marketing Specialist,HR,LinkedIn,2024-08-29,2024-09-06,,,,Hired
+C00855,Sales Executive,Sales,LinkedIn,2025-02-03,2025-02-07,,,,Hired
+C00856,Marketing Specialist,Tech,Naukri,2024-06-10,2024-06-13,2024-06-20,,,Rejected
+C00857,Product Manager,Marketing,LinkedIn,2025-03-29,2025-04-06,,,,Rejected
+C00858,Sales Executive,Sales,Referral,2024-04-26,2024-05-05,2024-05-13,,,Dropped
+C00859,Sales Executive,Product,Referral,9999-99-99,2023-08-16,,,,Dropped
+C00860,HR Manager,Tech,AngelList,2025-03-27,,,,,Dropped
+C00861,HR Manager,Product,Company Website,2024-02-15,2024-02-18,2024-03-01,2024-03-06,2024-03-25,Hired
+C00862,HR Manager,Tech,LinkedIn,2023-09-16,2023-09-26,2023-09-27,2023-10-07,,Dropped
+C00863,Marketing Specialist,Sales,Company Website,2024-06-30,2024-07-02,2024-07-10,2024-07-16,,Dropped
+C00864,Sales Executive,Tech,LinkedIn,2023-11-25,,,,,Rejected
+C00865,Product Manager,HR,Naukri,2024-07-24,2024-07-26,2024-08-05,2024-08-07,2024-08-18,Hired
+C00866,Product Manager,Sales,Naukri,2024-12-04,2024-12-06,2024-12-18,2024-12-26,2025-01-04,Hired
+C00867,Data Scientist,Marketing,Company Website,2024-08-21,2024-08-22,2024-08-23,2024-08-31,2024-09-11,Hired
+C00868,Software Engineer,Product,Referral,2025-04-05,2025-04-15,,,,Hired
+C00869,Product Manager,HR,AngelList,2025-03-25,2025-03-30,2025-03-31,2025-04-09,,Dropped
+C00870,HR Manager,Marketing,LinkedIn,2024-09-14,2024-09-21,,,,Rejected
+C00871,Data Scientist,Tech,LinkedIn,2024-10-17,2024-10-21,2024-11-04,2024-11-05,2024-11-12,Hired
+C00872,HR Manager,HR,AngelList,2025-05-17,2025-05-24,2025-06-06,2025-06-09,2025-06-13,Hired
+C00873,Sales Executive,Marketing,Company Website,2024-07-13,2024-07-20,2024-08-04,2024-08-14,,Rejected
+C00874,Sales Executive,Sales,Company Website,2024-03-08,2024-03-10,2024-03-19,,,Hired
+C00875,Marketing Specialist,Tech,LinkedIn,2025-02-25,2025-03-04,2025-03-14,2025-03-16,2025-03-30,Hired
+C00876,HR Manager,Marketing,Naukri,2023-12-04,2023-12-14,,,,Rejected
+C00877,Product Manager,Tech,AngelList,2024-05-22,2024-05-24,,,,Hired
+C00878,Software Engineer,Marketing,LinkedIn,2024-06-11,2024-06-19,2024-06-30,2024-07-03,2024-07-19,Hired
+C00879,HR Manager,Product,Naukri,2024-12-14,2024-12-23,,,,Dropped
+C00880,Product Manager,Sales,Company Website,9999-99-99,2023-09-03,2023-09-11,2023-09-14,,Rejected
+C00881,Data Scientist,HR,Naukri,2024-01-21,2024-01-26,2024-02-04,2024-02-14,,Dropped
+C00882,HR Manager,Marketing,Referral,2024-06-09,,,,,Rejected
+C00883,Data Scientist,Tech,LinkedIn,2024-05-11,,,,,Rejected
+C00884,Product Manager,Sales,AngelList,2024-05-25,,,,,Hired
+C00885,Product Manager,HR,Naukri,2024-08-31,2024-09-07,2024-09-15,2024-09-25,,Rejected
+C00886,Product Manager,Tech,Company Website,2025-01-28,2025-02-03,2025-02-05,2025-02-06,,Dropped
+C00887,Product Manager,Sales,Naukri,2024-06-18,2024-06-26,,,,Rejected
+C00888,Sales Executive,Tech,Company Website,2025-04-09,2025-04-16,,,,Hired
+C00889,Marketing Specialist,Sales,Referral,2024-10-31,2024-11-05,2024-11-17,2024-11-25,,Rejected
+C00890,Product Manager,HR,Company Website,2025-04-11,2025-04-16,2025-05-01,2025-05-04,2025-05-11,Hired
+C00891,Sales Executive,HR,AngelList,2024-04-29,2024-05-09,2024-05-20,,,Hired
+C00892,Software Engineer,Tech,Referral,2023-09-27,2023-09-28,2023-09-29,,,Rejected
+C00893,Sales Executive,Sales,Naukri,2023-09-16,2023-09-23,2023-10-05,2023-10-13,,Rejected
+C00894,Data Scientist,Marketing,LinkedIn,2024-01-28,2024-02-07,2024-02-18,2024-02-25,,Rejected
+C00895,Software Engineer,HR,Company Website,2023-10-13,2023-10-15,,,,Hired
+C00896,Data Scientist,Marketing,AngelList,2025-01-19,,,,,Hired
+C00897,Marketing Specialist,Marketing,LinkedIn,2023-11-18,2023-11-19,2023-11-23,2023-11-27,,Dropped
+C00898,HR Manager,Product,LinkedIn,2025-04-16,2025-04-19,2025-04-26,2025-05-05,,Dropped
+C00899,HR Manager,Tech,Referral,2023-12-16,2023-12-21,2023-12-24,2023-12-25,,Dropped
+C00900,Sales Executive,Tech,Naukri,2023-09-18,2023-09-21,2023-09-29,2023-10-07,2023-10-08,Hired
+C00901,Data Scientist,Tech,LinkedIn,2025-03-20,2025-03-30,2025-04-04,2025-04-11,,Dropped
+C00902,Marketing Specialist,Sales,AngelList,2024-07-08,,,,,Rejected
+C00903,HR Manager,HR,Company Website,2024-12-16,,,,,Rejected
+C00904,Marketing Specialist,HR,Company Website,2024-01-13,2024-01-20,2024-02-03,2024-02-13,,Rejected
+C00905,Marketing Specialist,Product,Company Website,2025-07-23,2025-08-01,2025-08-02,2025-08-10,,Dropped
+C00906,HR Manager,Product,Referral,2023-12-10,2023-12-20,2024-01-04,2024-01-12,,Rejected
+C00907,HR Manager,Product,AngelList,2025-06-11,2025-06-12,2025-06-19,2025-06-28,2025-07-01,Hired
+C00908,Software Engineer,Marketing,LinkedIn,2023-10-11,2023-10-18,2023-10-20,2023-10-26,2023-11-10,Hired
+C00909,Software Engineer,Tech,AngelList,2023-08-10,2023-08-11,,,,Rejected
+C00910,Product Manager,Sales,Referral,2024-03-04,2024-03-12,2024-03-16,2024-03-26,,Rejected
+C00911,Data Scientist,HR,Referral,2025-07-04,2025-07-10,2025-07-24,2025-08-01,2025-08-06,Hired
+C00912,HR Manager,Sales,Naukri,2023-10-02,2023-10-09,2023-10-23,2023-10-29,,Rejected
+C00913,Marketing Specialist,Tech,AngelList,2023-12-08,2023-12-11,2023-12-16,2023-12-18,2024-01-03,Hired
+C00914,Data Scientist,Tech,Company Website,2024-04-28,2024-05-02,,,,Dropped
+C00915,Product Manager,HR,Referral,2024-11-04,2024-11-11,2024-11-19,2024-11-23,,Dropped
+C00916,Marketing Specialist,Marketing,Referral,2024-03-25,2024-03-26,2024-03-31,2024-04-03,2024-04-09,Hired
+C00917,Sales Executive,Product,Naukri,2025-05-11,2025-05-20,,,,Dropped
+C00918,Product Manager,Marketing,Company Website,2025-06-30,,,,,Dropped
+C00919,HR Manager,Tech,Referral,2025-03-19,2025-03-29,2025-04-07,,,Hired
+C00920,Sales Executive,Tech,LinkedIn,2023-12-02,2023-12-08,2023-12-21,,,Rejected
+C00921,Sales Executive,Marketing,Company Website,2024-05-08,2024-05-13,2024-05-27,2024-06-05,,Dropped
+C00922,Product Manager,Product,AngelList,2025-05-28,2025-05-30,2025-06-14,2025-06-22,,Rejected
+C00923,HR Manager,Product,Naukri,2023-11-05,2023-11-07,2023-11-20,2023-11-22,,Rejected
+C00924,Marketing Specialist,Tech,LinkedIn,2025-05-20,2025-05-21,2025-05-24,2025-05-28,,Dropped
+C00925,Sales Executive,Product,LinkedIn,2023-11-07,2023-11-10,2023-11-22,2023-12-01,,Rejected
+C00926,Product Manager,Product,AngelList,2023-09-23,2023-09-25,,,,Rejected
+C00927,Product Manager,HR,Naukri,2024-10-13,2024-10-16,,,,Dropped
+C00928,Marketing Specialist,HR,Referral,2024-04-11,2024-04-18,2024-04-19,,,Dropped
+C00929,HR Manager,Sales,Naukri,2025-06-21,2025-06-27,2025-06-30,,,Rejected
+C00930,Product Manager,Marketing,Referral,2025-05-02,2025-05-09,2025-05-20,,,Rejected
+C00931,Product Manager,Tech,AngelList,2025-01-07,2025-01-16,2025-01-20,,,Rejected
+C00932,Product Manager,Product,AngelList,2024-04-21,2024-04-28,2024-05-12,2024-05-18,2024-05-19,Hired
+C00933,Data Scientist,Sales,LinkedIn,2024-11-08,2024-11-09,2024-11-18,2024-11-20,2024-12-01,Hired
+C00934,Software Engineer,HR,LinkedIn,2025-01-12,2025-01-15,2025-01-22,2025-01-25,,Rejected
+C00935,Marketing Specialist,Product,LinkedIn,2024-04-09,2024-04-10,2024-04-22,2024-05-01,,Dropped
+C00936,Data Scientist,Marketing,AngelList,2023-09-07,2023-09-14,2023-09-25,2023-09-30,2023-10-11,Hired
+C00937,Product Manager,HR,Referral,2025-06-17,2025-06-18,2025-07-03,2025-07-06,2025-07-19,Hired
+C00938,Software Engineer,Tech,AngelList,2023-12-25,2023-12-29,2024-01-08,2024-01-16,,Rejected
+C00939,Marketing Specialist,Product,AngelList,2025-03-23,2025-03-30,9999-99-99,2025-04-15,2025-05-03,Hired
+C00940,Sales Executive,Sales,LinkedIn,2024-03-28,2024-03-31,2024-04-09,,,Rejected
+C00941,Marketing Specialist,Tech,Naukri,2025-03-04,,,,,Dropped
+C00942,Data Scientist,Product,LinkedIn,2024-02-13,2024-02-22,2024-03-04,,,Rejected
+C00943,Data Scientist,Product,Naukri,2025-04-19,,,,,Dropped
+C00944,Data Scientist,Product,Referral,2025-02-18,2025-02-28,2025-03-14,2025-03-21,2025-04-07,Hired
+C00945,Marketing Specialist,Product,Referral,2024-09-02,2024-09-03,2024-09-08,2024-09-14,2024-09-18,Hired
+C00946,HR Manager,Product,Company Website,2024-12-13,,,,,Hired
+C00947,Product Manager,Tech,Company Website,2023-09-23,2023-09-25,2023-10-05,2023-10-13,2023-10-24,Hired
+C00948,Marketing Specialist,Marketing,Company Website,2025-01-15,2025-01-25,2025-02-09,2025-02-18,,Dropped
+C00949,Sales Executive,Marketing,Referral,2023-08-17,2023-08-21,2023-08-26,2023-09-05,2023-09-10,Hired
+C00950,Sales Executive,Tech,LinkedIn,2025-01-31,2025-02-09,2025-02-11,2025-02-21,,Rejected
+C00951,Sales Executive,Marketing,LinkedIn,2023-12-11,2023-12-17,2023-12-20,2023-12-27,,Dropped
+C00952,Product Manager,Sales,LinkedIn,2024-03-18,,,,,Dropped
+C00953,Software Engineer,Sales,AngelList,2024-10-22,,,,,Hired
+C00954,Data Scientist,Tech,Company Website,2024-02-17,2024-02-25,2024-02-27,2024-03-07,2024-03-20,Hired
+C00955,Product Manager,Sales,LinkedIn,2024-03-14,2024-03-23,2024-04-06,,,Dropped
+C00956,Data Scientist,Tech,Company Website,2023-09-22,2023-09-29,2023-10-11,2023-10-19,,Rejected
+C00957,Product Manager,Sales,Company Website,2024-12-15,2024-12-22,2024-12-25,2025-01-02,,Rejected
+C00958,Data Scientist,HR,AngelList,2023-08-13,2023-08-16,2023-08-25,2023-08-27,2023-09-03,Hired
+C00959,Product Manager,Tech,Referral,2024-02-16,2024-02-17,2024-02-26,2024-02-28,2024-03-19,Hired
+C00960,Software Engineer,Product,LinkedIn,2025-05-08,2025-05-10,,,,Hired
+C00961,Marketing Specialist,Sales,AngelList,2024-03-09,2024-03-10,2024-03-12,2024-03-18,,Dropped
+C00962,Sales Executive,HR,Referral,2025-04-10,2025-04-18,,,,Rejected
+C00963,Data Scientist,Tech,Referral,2023-12-01,2023-12-11,2023-12-26,2023-12-31,,Dropped
+C00964,Product Manager,Sales,LinkedIn,2023-11-16,2023-11-24,,,,Dropped
+C00965,Software Engineer,Product,Company Website,2023-12-01,2023-12-03,2023-12-10,2023-12-15,,Rejected
+C00966,Software Engineer,Sales,Naukri,2025-04-06,2025-04-12,2025-04-20,2025-04-30,,Dropped
+C00967,Sales Executive,HR,Company Website,2024-02-10,2024-02-13,2024-02-21,9999-99-99,2024-03-05,Hired
+C00968,Product Manager,Marketing,Company Website,2024-07-31,9999-99-99,,,,Dropped
+C00969,Marketing Specialist,Marketing,Naukri,2025-04-01,2025-04-11,2025-04-15,2025-04-21,,Dropped
+C00970,Data Scientist,HR,Referral,2023-07-29,2023-08-06,2023-08-17,,,Rejected
+C00971,Marketing Specialist,HR,Naukri,2024-11-23,2024-11-24,2024-12-07,2024-12-12,,Dropped
+C00972,HR Manager,Tech,Naukri,2025-06-23,2025-06-25,2025-06-27,,,Dropped
+C00973,Software Engineer,Marketing,AngelList,2023-12-25,2024-01-04,2024-01-14,2024-01-22,2024-02-08,Hired
+C00974,Software Engineer,Tech,AngelList,2024-10-14,2024-10-16,2024-10-25,,,Dropped
+C00975,Sales Executive,Sales,AngelList,2024-06-09,,,,,Hired
+C00976,Product Manager,HR,Referral,2023-10-12,2023-10-16,2023-10-30,2023-11-07,,Rejected
+C00977,HR Manager,Tech,Naukri,2023-09-09,,,,,Dropped
+C00978,HR Manager,HR,LinkedIn,2023-11-28,2023-12-04,2023-12-05,2023-12-06,,Rejected
+C00979,HR Manager,Tech,Naukri,2025-03-10,2025-03-13,2025-03-27,2025-04-03,2025-04-12,Hired
+C00980,Product Manager,Sales,Referral,2024-12-16,,,,,Rejected
+C00981,Data Scientist,Sales,AngelList,2024-06-10,2024-06-19,,,,Hired
+C00982,Software Engineer,Product,Referral,2025-05-20,2025-05-25,2025-05-28,2025-06-04,2025-06-10,Hired
+C00983,Product Manager,Marketing,AngelList,2023-10-26,,,,,Hired
+C00984,HR Manager,Product,Referral,2024-05-22,2024-05-25,,,,Hired
+C00985,Software Engineer,Marketing,LinkedIn,2023-08-25,,,,,Dropped
+C00986,Software Engineer,Sales,AngelList,2024-06-02,2024-06-08,,,,Hired
+C00987,HR Manager,Tech,AngelList,2024-03-10,2024-03-15,2024-03-29,2024-03-30,2024-04-06,Hired
+C00988,HR Manager,HR,Naukri,2024-01-14,2024-01-24,2024-02-01,2024-02-10,,Dropped
+C00989,Software Engineer,Sales,Referral,2024-06-07,2024-06-09,2024-06-15,2024-06-22,,Rejected
+C00990,Sales Executive,Sales,Company Website,2024-01-23,,,,,Hired
+C00991,Marketing Specialist,Tech,Company Website,2024-12-03,,,,,Rejected
+C00992,Marketing Specialist,Sales,Naukri,2023-09-02,2023-09-03,2023-09-13,2023-09-17,,Dropped
+C00993,Software Engineer,Sales,Referral,2025-01-11,2025-01-14,2025-01-21,2025-01-30,2025-02-06,Hired
+C00994,Data Scientist,Tech,LinkedIn,2024-09-13,2024-09-16,2024-09-19,2024-09-28,2024-10-12,Hired
+C00995,Data Scientist,Sales,Naukri,2023-10-04,2023-10-13,2023-10-14,2023-10-24,,Rejected
+C00996,Sales Executive,Marketing,AngelList,2024-08-04,2024-08-07,,,,Dropped
+C00997,Product Manager,Marketing,LinkedIn,2023-10-01,2023-10-09,2023-10-14,2023-10-21,2023-11-02,Hired
+C00998,Software Engineer,Marketing,Referral,2023-10-19,2023-10-23,2023-11-01,,,Rejected
+C00999,Data Scientist,Marketing,AngelList,2025-07-22,2025-07-31,2025-08-05,,,Hired
+C01000,Software Engineer,Sales,Company Website,2025-02-06,2025-02-09,2025-02-14,2025-02-18,2025-03-10,Hired
+C00522,Sales Executive,Tech,LinkedIn,2024-09-20,2024-09-26,2024-10-02,2024-10-10,,Dropped
+C00738,HR Manager,Marketing,AngelList,2023-08-20,2023-08-26,2023-09-03,2023-09-09,2023-09-10,Hired
+C00741,Marketing Specialist,Sales,Referral,2025-05-30,2025-06-02,2025-06-03,2025-06-04,,Dropped
+C00661,Marketing Specialist,Sales,Naukri,2024-09-12,2024-09-15,2024-09-30,2024-10-08,,Dropped
+C00412,Sales Executive,HR,Naukri,2024-02-03,2024-02-12,,,,Hired
+C00679,Marketing Specialist,Sales,Company Website,2024-08-23,2024-08-25,2024-09-09,2024-09-17,,Rejected
+C00627,Software Engineer,HR,Naukri,2025-07-21,2025-07-27,2025-08-03,2025-08-09,2025-08-22,Hired
+C00514,Data Scientist,Marketing,LinkedIn,2024-07-25,2024-07-26,,,,Rejected
+C00860,HR Manager,Tech,AngelList,2025-03-27,2025-03-31,2025-04-04,2025-04-09,,Dropped
+C00137,Product Manager,Tech,Naukri,2025-07-08,2025-07-14,,,,Rejected
+C00812,Software Engineer,Tech,LinkedIn,2023-12-13,2023-12-18,2023-12-22,,,Rejected
+C00077,Product Manager,Tech,Referral,2024-02-18,2024-02-24,,,,Dropped
+C00637,Marketing Specialist,HR,LinkedIn,2024-06-16,2024-06-26,2024-06-30,2024-07-07,2024-07-11,Hired
+C00974,Software Engineer,Tech,AngelList,2024-10-14,2024-10-24,2024-10-27,2024-11-06,,Dropped
+C00939,Marketing Specialist,Product,AngelList,2025-03-23,2025-04-02,2025-04-04,2025-04-06,2025-04-11,Hired
+C00900,Sales Executive,Tech,Naukri,2023-09-18,2023-09-28,2023-10-13,2023-10-18,2023-10-25,Hired
+C00281,Marketing Specialist,Sales,LinkedIn,2025-01-16,2025-01-17,2025-01-29,2025-02-08,,Dropped
+C00884,Product Manager,Sales,AngelList,2024-05-25,2024-06-03,2024-06-04,2024-06-05,2024-06-16,Hired
+C00762,Product Manager,Sales,AngelList,2024-10-19,2024-10-26,2024-11-06,2024-11-14,2024-11-26,Hired
+C00320,Software Engineer,Tech,Company Website,2024-02-28,2024-02-29,2024-03-04,,,Rejected
+C00550,HR Manager,Tech,Company Website,2023-11-09,2023-11-18,2023-11-19,2023-11-25,,Dropped
+C00175,Marketing Specialist,Tech,LinkedIn,2025-01-07,,,,,Hired
+C00372,Sales Executive,Sales,Referral,2024-02-19,2024-02-20,2024-02-24,2024-03-02,,Dropped
+C00528,Software Engineer,Product,Naukri,2024-01-10,2024-01-14,,,,Hired
+C00211,Data Scientist,Marketing,LinkedIn,2024-08-02,2024-08-04,2024-08-06,,,Dropped
+C00236,Data Scientist,Sales,Referral,2024-06-29,2024-06-30,2024-07-11,2024-07-16,,Rejected
+C00102,Marketing Specialist,HR,LinkedIn,2024-09-16,2024-09-24,2024-09-30,2024-10-06,,Dropped
+C00987,HR Manager,Tech,AngelList,2024-03-10,2024-03-14,2024-03-27,2024-04-04,2024-04-08,Hired
+C00903,HR Manager,HR,Company Website,2024-12-16,2024-12-26,,,,Rejected
+C00948,Marketing Specialist,Marketing,Company Website,2025-01-15,2025-01-16,2025-01-31,2025-02-02,,Dropped
+C00347,Sales Executive,Product,Company Website,2025-05-05,2025-05-06,2025-05-14,,,Hired
+C00140,Sales Executive,HR,LinkedIn,2024-02-04,2024-02-11,,,,Rejected
+C00622,Product Manager,Product,Referral,2024-12-08,2024-12-17,,,,Dropped
+C00500,Marketing Specialist,Tech,LinkedIn,2024-02-10,2024-02-17,,,,Rejected
+C00371,Sales Executive,Marketing,Naukri,2024-12-23,2024-12-27,2025-01-09,2025-01-10,2025-01-25,Hired
+C00199,Product Manager,Sales,Naukri,2025-01-22,2025-01-29,2025-02-08,,,Dropped
+C00688,Marketing Specialist,Sales,Referral,2025-06-15,2025-06-16,2025-06-22,2025-06-24,,Dropped
+C00585,Marketing Specialist,Marketing,LinkedIn,2025-06-17,2025-06-27,2025-07-07,2025-07-11,,Dropped
+C00902,Marketing Specialist,Sales,AngelList,2024-07-08,2024-07-11,2024-07-16,2024-07-24,,Rejected
+C00060,Sales Executive,Marketing,Naukri,2025-06-09,2025-06-17,,,,Rejected
+C00329,Marketing Specialist,HR,AngelList,2024-02-02,2024-02-03,,,,Hired
+C00097,Data Scientist,Sales,Naukri,2025-05-17,2025-05-24,2025-06-04,2025-06-09,2025-06-28,Hired
+C00313,HR Manager,Product,AngelList,2024-11-15,2024-11-18,,,,Rejected
+C00975,Sales Executive,Sales,AngelList,2024-06-09,2024-06-15,2024-06-16,2024-06-19,2024-06-21,Hired
+C00300,Data Scientist,Marketing,Referral,2024-03-11,2024-03-20,2024-03-27,2024-03-31,,Dropped
+C00278,HR Manager,HR,AngelList,2024-07-22,2024-07-26,2024-08-01,,,Hired
+C00925,Sales Executive,Product,LinkedIn,2023-11-07,2023-11-15,2023-11-21,2023-12-01,,Rejected
+C00602,HR Manager,Marketing,Referral,2025-01-04,2025-01-14,2025-01-20,,,Dropped
+C00440,Software Engineer,HR,Naukri,2023-08-31,2023-09-01,2023-09-16,,,Rejected
+C00838,Software Engineer,HR,LinkedIn,2025-05-11,2025-05-15,2025-05-19,,,Hired
