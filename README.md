@@ -51,32 +51,3 @@
 ![Main Dashboard](Smart%20Hiring%20Dashboard%20Startup%201.png)
 
 
-## **Applicants by Department**
-
-![Applicants by Department](applicants_by_department.png)
-
-
-## **Applicants by Role**
-
-![Applicants by Role](applicants_by_role.png)
-
-
-## **Applicants by Source**
-
-![Applicants by Source](applicants_by_source.png)
-
-
-## **Average Time per Stage**
-
-![Average Time per Stage](avg_time_per_stage.png)
-
-
-## **Drop-off Heatmap**
-
-![Drop-off Heatmap](drop_off_heatmap.png)
--
-
-## **Drop-off by Stages**
-
-![Drop-off by Stages](drop_off_stages.png)
-
